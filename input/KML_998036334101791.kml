@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 547</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 547</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Contone S&uuml;d</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1917 ca.</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 547</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_547_Cantone Sud_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_547_Cantone Sud_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998036334101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998036334101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.96567731831378,46.1336400661097
+                8.96543423613792,46.1328156124673
+                8.96295281495949,46.1324712704335
+                8.95907871584785,46.1318397398033
+                8.95610255180113,46.1313849488035
+                8.95450115762719,46.1310375842513
+                8.95362669741025,46.1307704134464
+                8.95300697027994,46.1303558636274
+                8.95236512423453,46.1300765646982
+                8.95184569412168,46.1300115529089
+                8.95149542866848,46.1299802599482
+                8.95103223181085,46.1300764395734
+                8.95018220266747,46.1302227845381
+                8.94885850787814,46.130087553132
+                8.94651364267362,46.1295250936648
+                8.94598400872723,46.1300270119287
+                8.9457546258642,46.130623887259
+                8.94545333473704,46.1314286566265
+                8.94461469050508,46.1319886761041
+                8.94236169358661,46.1328824414898
+                8.94120056879005,46.1334827193939
+                8.94087852217474,46.1344766919942
+                8.94055999095897,46.1351287253497
+                8.93994841642366,46.1354787529597
+                8.93885469217175,46.1357092265081
+                8.93721413290017,46.1358209907972
+                8.93463961419876,46.1358551420978
+                8.9332667825787,46.1358193460718
+                8.93132520453362,46.1358090503462
+                8.92990210230091,46.1358278609441
+                8.92873193269613,46.1361042312767
+                8.92941484328714,46.1369409433142
+                8.93076256364444,46.1370041098663
+                8.93156469306599,46.1369935036166
+                8.93291500150751,46.1376234294371
+                8.93709066673123,46.1374511118964
+                8.93786173496081,46.1372519333466
+                8.93841434275182,46.1371096351738
+                8.94012482496113,46.1371858638454
+                8.94392859681405,46.135263794167
+                8.94450803586215,46.1351570964843
+                8.94542284249123,46.1350099306893
+                8.94612069750097,46.1349736210432
+                8.94850955961369,46.1343118895363
+                8.94959476213705,46.1342433845404
+                8.94975400935135,46.1348530597738
+                8.94987916321806,46.135166284907
+                8.95056806867288,46.1352740222254
+                8.95202397149725,46.1350385788673
+                8.95285938612735,46.1348294367583
+                8.95579707975964,46.1348259766418
+                8.95660157925018,46.1358318413506
+                8.95730736655015,46.1370099754342
+                8.95758581587931,46.1372491526707
+                8.95808069932602,46.1373594554385
+                8.95877882647998,46.1373320613114
+                8.96033824856308,46.1370951167118
+                8.96370046052477,46.1360690454673
+                8.96389815136247,46.1357334779858
+                8.96443270696758,46.1354113513142
+                8.96539593943931,46.1351464047185
+                8.96582009113073,46.1350416974203
+                8.96567731831378,46.1336400661097
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.94721911132928,46.133510403175</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

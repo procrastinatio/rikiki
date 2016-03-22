@@ -1,0 +1,116 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 1161</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 1161</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Gurtnellen</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Egolf, Heinrich</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1920</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 1161</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_1161_Gurtnellen_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_1161_Gurtnellen_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998061384101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998061384101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.63559596744542,46.7396406062245
+                8.63510251666972,46.7392229434601
+                8.63405441033437,46.73857717948
+                8.63255455071769,46.7376212544119
+                8.63147596530759,46.7367778629009
+                8.62919778313905,46.7349393718553
+                8.62721904366342,46.733619515875
+                8.62611525087023,46.7328123235848
+                8.62464742162379,46.7315140968371
+                8.62337745540213,46.7302857699522
+                8.6226426122674,46.729591668926
+                8.62136478342383,46.7285973108993
+                8.62031350195624,46.7277895198344
+                8.62007774421977,46.7271801989036
+                8.61943916032324,46.7260982319224
+                8.61841480432649,46.7247233660372
+                8.61779308262835,46.7250086833851
+                8.61628488420957,46.7254380962876
+                8.61511771659509,46.7259089561407
+                8.61448680453365,46.7263742796482
+                8.61310096089428,46.7270183046452
+                8.61210514303154,46.7275503448047
+                8.61163721183456,46.7282928670022
+                8.61123292882879,46.7295565290382
+                8.61082882230928,46.7308291839528
+                8.60980050797431,46.7334847048468
+                8.6092190464257,46.735029066786
+                8.60868500361975,46.7363480273505
+                8.60792852954526,46.7376692637906
+                8.60728002148576,46.7385395660618
+                8.60681290244091,46.7393270399919
+                8.60678787316722,46.7399840379959
+                8.63559596744542,46.7396406062245
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

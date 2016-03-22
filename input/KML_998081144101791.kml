@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 1740, 1740a</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 1740, 1740a</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Fontana</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Vuille, Ernest;Hunziker</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1931</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 1740, 1740a</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_1740_a_Fontana_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_1740_a_Fontana_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_1740_Fontana_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_1740_Fontana_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998081144101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998081144101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.5459531262368,46.5004122503819
+                8.54659689285,46.5318937262528
+                8.56615964761941,46.531710424654
+                8.57104126029292,46.5282702203225
+                8.57110284707312,46.5280986727404
+                8.57141279510315,46.5279606371702
+                8.57167249537292,46.5279130668491
+                8.57191784550614,46.5278026631962
+                8.57206044472753,46.5277652556313
+                8.57182398627968,46.5276776471454
+                8.5721601822523,46.5275483444292
+                8.5724329118362,46.5275006424484
+                8.57260082039968,46.527426995653
+                8.57247494409769,46.5226600848809
+                8.58535396014489,46.5135163547902
+                8.58516281505268,46.5044857310999
+                8.57220557970527,46.5091679578007
+                8.55903143682814,46.5003200519519
+                8.55257172397718,46.5048638174871
+                8.5459531262368,46.5004122503819
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.56584482602593,46.5159606232327</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

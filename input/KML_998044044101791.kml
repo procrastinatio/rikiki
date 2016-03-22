@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 787</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 787</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Caval Drossa</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Simon, P.</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1915</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 787</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_787_Caval Drossa_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_787_Caval Drossa_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998044044101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998044044101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                9.00778728577445,46.1070243492726
+                9.00818087764791,46.10631708691
+                9.0089204603826,46.1054970402326
+                9.00955451291522,46.1046064799313
+                9.00988367613026,46.1039091057239
+                9.0101068072029,46.1031232349616
+                9.01007314516104,46.10195405878
+                9.00897180926613,46.0996391041844
+                9.00905065531195,46.098783266327
+                9.00904207121933,46.0962371603741
+                9.00999342006683,46.0928949233398
+                9.0116989849107,46.09284415576
+                9.01204230645724,46.0926414268513
+                9.01186019815925,46.0912583885634
+                9.00996025177601,46.0908440102045
+                9.01009646975405,46.0901853123298
+                9.009020990337,46.0892105949647
+                9.00782947720773,46.08779661727
+                9.00794244747792,46.0872282184552
+                9.00610661542457,46.0840867202399
+                9.00549194516409,46.0833934777826
+                9.00461438907067,46.0830007922289
+                9.00265741996538,46.0823891486067
+                9.00152213372353,46.0824768672585
+                9.00082421582428,46.0824865382323
+                8.99912656399383,46.0818982329953
+                8.99824026356697,46.0816495754277
+                8.99747722100031,46.0816421320969
+                8.99368045237561,46.0822523830203
+                8.99116212569082,46.0819002038033
+                8.99048852820201,46.0818554927738
+                8.98969003195736,46.0819654482803
+                8.98785052856727,46.0822966406596
+                8.98664073323032,46.0824931991504
+                8.98499932622502,46.0825157203019
+                8.98393951938221,46.0825302488208
+                8.98374036257092,46.0828028936343
+                8.98375105147232,46.083180629246
+                8.98419156574684,46.083669438058
+                8.98480062045248,46.0841739289103
+                8.98565176441637,46.0850079921207
+                8.98578396222944,46.0860228619955
+                8.98590597004302,46.0866779836716
+                8.98616633870712,46.0871962487009
+                8.98671490279072,46.0878455155033
+                8.98693446678191,46.0882923614912
+                8.98688463003125,46.0888148835622
+                8.98645542411152,46.089639520702
+                8.98646723097062,46.0905120875585
+                8.98650693132249,46.0914562493307
+                8.98653021459786,46.0927335332041
+                8.98642159971695,46.0934637976711
+                8.98595101940738,46.0941990284029
+                8.98500262170444,46.0949588035073
+                8.98393403029089,46.0955852590596
+                8.98287834205,46.0962115275349
+                8.98347923122114,46.0973369468791
+                8.98379470533726,46.0984302848444
+                8.98410662718767,46.0993977099706
+                8.98413616586901,46.1004409815246
+                8.98565162943943,46.1005191769092
+                8.98626073357905,46.1001059469408
+                8.98654363323179,46.100048081858
+                8.98673977792663,46.099667507017
+                8.98711564232786,46.0992394786902
+                8.98755520873509,46.0992334434672
+                8.98807668552875,46.0993792340928
+                8.98924136936967,46.0998580765319
+                8.99021853480656,46.1005644173466
+                8.99178417938871,46.1014965768315
+                8.99305288562636,46.101991943224
+                8.99503400138301,46.1025224546881
+                8.99766804256732,46.1032688409977
+                8.999209904839,46.1038143475022
+                9.00139539084885,46.1047018116777
+                9.0029292987064,46.1054183265423
+                9.00432514495127,46.1062806935509
+                9.00565173601912,46.1069820552149
+                9.00623798628208,46.1071268638946
+                9.00741463666973,46.1071105074099
+                9.00778728577445,46.1070243492726
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.99746778047857,46.0944453178931</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

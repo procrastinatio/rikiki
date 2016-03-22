@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1747">
+        <Document id="feat_1748">
+            <name>KML_LT_FK_NAT</name>
+        </Document>
+        <NetworkLink id="feat_1749">
+            <name>KML_LT_FK_NAT_label</name>
+            <Link id="link_843">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_LT_FK_NAT.kml_label.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1750">
+            <name>KML_9925823603601791</name>
+            <Link id="link_844">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_9925823603601791.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1751">
+            <name>KML_997143514101791</name>
+            <Link id="link_845">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997143514101791.kml</href>
+            </Link>
+        </NetworkLink>
+    </Document>
+</kml>

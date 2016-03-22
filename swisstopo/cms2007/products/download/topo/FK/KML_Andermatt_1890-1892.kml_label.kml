@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_856">
+        <Style id="stylesel_6">
+            <IconStyle id="substyle_13">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_404">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_12">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_857">
+            <name>LT FK GOT 4,1892</name>
+            <styleUrl>#stylesel_6</styleUrl>
+            <Point id="geom_439">
+                <coordinates>8.59176943228,46.6942817951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_858">
+            <name>LT FK GOT 27,1892</name>
+            <styleUrl>#stylesel_6</styleUrl>
+            <Point id="geom_440">
+                <coordinates>8.58900942186,46.5647598246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_859">
+            <name>LT FK GOT 26,1892</name>
+            <styleUrl>#stylesel_6</styleUrl>
+            <Point id="geom_441">
+                <coordinates>8.54228195529,46.5760184402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_860">
+            <name>LT FK GOT 19,1891</name>
+            <styleUrl>#stylesel_6</styleUrl>
+            <Point id="geom_442">
+                <coordinates>8.63715144955,46.6182426178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_861">
+            <name>LT FK GOT 18,1891</name>
+            <styleUrl>#stylesel_6</styleUrl>
+            <Point id="geom_443">
+                <coordinates>8.58992795091,46.6079339454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_862">
+            <name>LT FK GOT 17,1891</name>
+            <styleUrl>#stylesel_6</styleUrl>
+            <Point id="geom_444">
+                <coordinates>8.54294286643,46.6083992988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_863">
+            <name>LT FK GOT 16,1892</name>
+            <styleUrl>#stylesel_6</styleUrl>
+            <Point id="geom_445">
+                <coordinates>8.49595698522,46.6088452625,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

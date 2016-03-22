@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 458</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 458</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Vallon de Nant</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Jacot-Guillarmod, Charles</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1909</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 458</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_458_Vallon de Nant_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_458_Vallon de Nant_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997913334101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997913334101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                7.09809433126812,46.2072148703702
+                7.09672493795992,46.2065720461818
+                7.09561973297834,46.2071893979936
+                7.09444943517854,46.2078515191984
+                7.09533795485357,46.2087267987193
+                7.09745169015937,46.2105233315038
+                7.09929154600459,46.2126248549838
+                7.1008199846006,46.2148153748981
+                7.10149982377695,46.2159418603042
+                7.10214131416396,46.2169872666445
+                7.10343539129673,46.219392949094
+                7.10450440666435,46.2225895694237
+                7.10542197646969,46.2251380466853
+                7.10619573834487,46.22790198973
+                7.10666051445342,46.2303321819145
+                7.10712812399299,46.2323036022096
+                7.10734564302619,46.2327720136962
+                7.10783210693842,46.2337809510921
+                7.10940118838874,46.2358365390367
+                7.10962518424332,46.2373844439389
+                7.1094192549738,46.2392819287829
+                7.11098646748348,46.239529361823
+                7.11191719933139,46.2399818367441
+                7.11262722673324,46.2404876420875
+                7.11365703597292,46.241723010385
+                7.11471533679096,46.2425356548953
+                7.11573648024016,46.2430603223381
+                7.11607495931268,46.2428274008454
+                7.11659696728336,46.2422531659729
+                7.11696407709704,46.2415615448527
+                7.11718697392119,46.2411393825845
+                7.11756772263273,46.2403308548175
+                7.11741504724717,46.2376407204402
+                7.11746513086327,46.235742779624
+                7.1175399172664,46.2340518091397
+                7.11730349043346,46.2323779463581
+                7.1175667465588,46.2295000855784
+                7.11888355675974,46.2281994469129
+                7.11939211714744,46.2276791359604
+                7.1198124651955,46.2267267830139
+                7.11977805663628,46.2259620559475
+                7.11890520284293,46.2245112923586
+                7.11846014125971,46.2230527383745
+                7.11782250377583,46.2212877845686
+                7.11718320931791,46.2198106831811
+                7.11639857804757,46.2188099333308
+                7.11636475441282,46.2179552506604
+                7.11647629932417,46.2166242131447
+                7.11483533554046,46.2158099179262
+                7.11377615753859,46.2152311585664
+                7.11278157879853,46.2146885580073
+                7.11121820748138,46.2139194118842
+                7.10922982116784,46.2127262112879
+                7.10667286532179,46.2112884251853
+                7.10455455012383,46.210184716892
+                7.10260431870483,46.2091534336121
+                7.10013644687724,46.2080306113951
+                7.09809433126812,46.2072148703702
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>7.10708293939226,46.2248190848898</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

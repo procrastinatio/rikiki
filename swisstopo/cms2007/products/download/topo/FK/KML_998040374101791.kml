@@ -1,0 +1,118 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 460</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 460</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Les Plans</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Diesbach, R. de</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1908</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 460</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_460_Les Plans_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_460_Les Plans_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998040374101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998040374101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                7.09222394647704,46.244052256134
+                7.08930904757022,46.2436834660552
+                7.087220245276,46.2438928929503
+                7.08481967357358,46.2441912634269
+                7.08300381375947,46.2442935177945
+                7.08114905081916,46.2443956201111
+                7.08044412475708,46.245122040154
+                7.08010044514801,46.2461194716248
+                7.0802377413915,46.2469295176048
+                7.08042424391114,46.2481445247484
+                7.08066859371673,46.2484511511817
+                7.08077055148319,46.2487213440664
+                7.08076871887752,46.2490002042901
+                7.08084013476648,46.24997196342
+                7.08083966191838,46.2500439273533
+                7.08087152926847,46.2511145139046
+                7.08086437777402,46.2522029684885
+                7.08085237915395,46.2540290535852
+                7.08089745345814,46.2550636993728
+                7.08075955527708,46.2563136629988
+                7.0807785152737,46.2573752134025
+                7.0806811118087,46.2583824217293
+                7.08067188544523,46.2597857190498
+                7.10045018330343,46.2597835855051
+                7.10014311902934,46.2591079919416
+                7.0996969896069,46.2578562580412
+                7.09944428530862,46.2567850158138
+                7.09934967512354,46.2553184376422
+                7.09930133480656,46.254751565377
+                7.09864553898601,46.2517810253307
+                7.09764433802136,46.2480717963392
+                7.09684292950962,46.2456045647917
+                7.09606566421265,46.2454942658456
+                7.09373741936503,46.2446056162234
+                7.09222394647704,46.244052256134
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

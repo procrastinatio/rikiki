@@ -1,0 +1,127 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 9</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 9</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Fondo del Bosco</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Bonard, Constantin</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1888</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:5 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 9</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_9_Fondo del Bosco_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_9_Fondo del Bosco_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997407034101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997407034101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.59201484928628,46.5307403774839
+                8.59173905605048,46.5306442123919
+                8.59130400017792,46.5304147127035
+                8.59081911439381,46.5302936751529
+                8.59038903933732,46.5302980323254
+                8.589961450348,46.5304193180718
+                8.58966781850346,46.530710181
+                8.58934773571907,46.5309833176895
+                8.58903590524378,46.5310314558164
+                8.58870970418993,46.5310167624782
+                8.58796416423983,46.5308983488226
+                8.58716325351249,46.5306275480529
+                8.58602197841062,46.5302882043148
+                8.58569787851077,46.5303724433468
+                8.5856683814186,46.5332876262109
+                8.58591441576101,46.5338249377088
+                8.58637573384973,46.5340631895289
+                8.58670290619961,46.5341228627369
+                8.5869869727237,46.5339940425477
+                8.58708628034079,46.5337591290359
+                8.58725208953035,46.5335865196386
+                8.58760284554923,46.533528996707
+                8.58824510866433,46.5336934400504
+                8.58860083102629,46.5338697744873
+                8.58899278975236,46.5339107927945
+                8.58937691162381,46.5335830298929
+                8.58964659720573,46.5333913725348
+                8.58999811444522,46.5333698207348
+                8.59062562731564,46.5334534309291
+                8.59095548051171,46.533639016702
+                8.59141318078298,46.5337063501515
+                8.59176412470311,46.5336578090098
+                8.59211181061443,46.5334563581404
+                8.59237995264776,46.5331927372882
+                8.59238723627457,46.5329227662734
+                8.59209494918498,46.5326648310246
+                8.5920265263832,46.5325125833859
+                8.59220381609395,46.5322678775473
+                8.5921846512761,46.5319801817178
+                8.59232341468637,46.5317628562114
+                8.59264463720845,46.531543678908
+                8.59260074648127,46.5313192100592
+                8.59233223289518,46.5309530753597
+                8.59201484928628,46.5307403774839
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1364">
+        <Style id="stylesel_13">
+            <IconStyle id="substyle_27">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_658">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_26">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1365">
+            <name>LT FK SMAU 9,1897</name>
+            <styleUrl>#stylesel_13</styleUrl>
+            <Point id="geom_679">
+                <coordinates>7.05749251988,46.2379944249,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1366">
+            <name>LT FK SMAU 7,1898</name>
+            <styleUrl>#stylesel_13</styleUrl>
+            <Point id="geom_680">
+                <coordinates>6.96415306652,46.2376414071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1367">
+            <name>LT FK SMAU 6,1898</name>
+            <styleUrl>#stylesel_13</styleUrl>
+            <Point id="geom_681">
+                <coordinates>6.91748383992,46.2374360149,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1368">
+            <name>LT FK SMAU 2,1897</name>
+            <styleUrl>#stylesel_13</styleUrl>
+            <Point id="geom_682">
+                <coordinates>6.96377661169,46.2808194419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1369">
+            <name>LT FK SMAU 17,1904</name>
+            <styleUrl>#stylesel_13</styleUrl>
+            <Point id="geom_683">
+                <coordinates>7.05809584175,46.1516381211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1370">
+            <name>LT FK SMAU 16,1898</name>
+            <styleUrl>#stylesel_13</styleUrl>
+            <Point id="geom_684">
+                <coordinates>7.01149983583,46.1514715077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1371">
+            <name>LT FK SMAU 13,1902</name>
+            <styleUrl>#stylesel_13</styleUrl>
+            <Point id="geom_685">
+                <coordinates>7.01116151265,46.1946494617,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

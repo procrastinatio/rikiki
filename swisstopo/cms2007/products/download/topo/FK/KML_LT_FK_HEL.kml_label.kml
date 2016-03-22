@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1732">
+        <Style id="stylesel_20">
+            <IconStyle id="substyle_41">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_838">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_40">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1733">
+            <name>LT FK HEL 1941 : 4.1;LT FK HEL 1941 : 1.1;LT FK HEL 1941 : 3.1;LT FK HEL 1941 : 2.1</name>
+            <styleUrl>#stylesel_20</styleUrl>
+            <Point id="geom_853">
+                <coordinates>9.68277590959,47.4429118089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1734">
+            <name>LT FK HEL 1941 : 4;LT FK HEL 1941 : 3</name>
+            <styleUrl>#stylesel_20</styleUrl>
+            <Point id="geom_854">
+                <coordinates>9.69390420379,47.5277418319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1735">
+            <name>LT FK HEL 1941 : 4;LT FK HEL 1941 : 3</name>
+            <styleUrl>#stylesel_20</styleUrl>
+            <Point id="geom_855">
+                <coordinates>9.6950069764,47.4692443526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1736">
+            <name>LT FK HEL 1941 : 4;LT FK HEL 1941 : 3</name>
+            <styleUrl>#stylesel_20</styleUrl>
+            <Point id="geom_856">
+                <coordinates>9.68445259915,47.4172713429,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 39</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 39</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Alpe di Lago</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Hirsbrunner, J.;Weber, Otto</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1910</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 39</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_39_Alpe di Lago_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_39_Alpe di Lago_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997684614101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997684614101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.66593025780884,46.5372269107594
+                8.66544860923703,46.5372590980405
+                8.66500708099685,46.5373358340829
+                8.66358473767192,46.5372791907653
+                8.66242307854121,46.5372197245819
+                8.66142006510526,46.5372575043443
+                8.66107017597018,46.537351232995
+                8.6601084936421,46.5374875203923
+                8.65920913843226,46.5374971770578
+                8.65790410403901,46.5374392035154
+                8.65673103248703,46.5374517750106
+                8.65589624126277,46.5374337238349
+                8.65573670529628,46.537876268673
+                8.65514016441246,46.5391781732188
+                8.65497768649148,46.5400705821242
+                8.65480347927366,46.5416018800976
+                8.6548261103109,46.5426092657039
+                8.6548848178578,46.5434813153518
+                8.65521626836521,46.5443054644113
+                8.65595236010722,46.545728059637
+                8.65664634536535,46.5470161512014
+                8.65694116372897,46.5479486480321
+                8.65678666569689,46.5486160568607
+                8.65622983831275,46.5493687430708
+                8.65568724605422,46.550175254094
+                8.65545773728604,46.5509874101601
+                8.65543328901368,46.5522202158584
+                8.65562360928358,46.5531448370786
+                8.65607914980006,46.5542645465916
+                8.65648113863858,46.5553218510422
+                8.65667189259492,46.5562644593934
+                8.65666119945088,46.5569483210293
+                8.65650606508945,46.5575887457006
+                8.65633384038919,46.5580494196041
+                8.65765132341699,46.5586380867854
+                8.65870399217315,46.5590496458253
+                8.66014091070585,46.5597269705056
+                8.66123537992542,46.5602550145404
+                8.66252485632971,46.5607539605146
+                8.66452115693009,46.561362234929
+                8.66590196994417,46.5618601589922
+                8.6671159414088,46.562476825186
+                8.66852247840857,46.5629564468275
+                8.66939090797481,46.5632889299401
+                8.6693040748326,46.5629120081498
+                8.66918584484132,46.5623015118807
+                8.66905375956286,46.5616551785759
+                8.66848707225715,46.5608246135971
+                8.66810520356011,46.5600910123539
+                8.66728732797672,46.5591102123117
+                8.66649902935426,46.5582820311599
+                8.66564331709948,46.5573556083416
+                8.66470471554732,46.556223148959
+                8.66402080601672,46.5553938262342
+                8.66354410430718,46.5544992917434
+                8.66323955803176,46.5537198590754
+                8.66331718840149,46.5531162453473
+                8.66350237572113,46.552655420381
+                8.66391714748514,46.5519672050604
+                8.6649528150668,46.551056375263
+                8.66620153010665,46.5503411637725
+                8.66737484842447,46.5497527064392
+                8.66822058360835,46.5490958048858
+                8.66942054002404,46.5485340280111
+                8.67081335926674,46.5478531918841
+                8.67197579129464,46.5473637675741
+                8.67244214995351,46.546656966585
+                8.67260969046822,46.5459983894963
+                8.67246128802497,46.5452082894224
+                8.67209939894653,46.5442045837941
+                8.67178523501541,46.5435782212619
+                8.67088810200013,46.5425443275314
+                8.66980994409892,46.5415753638523
+                8.66929498173644,46.5407172542402
+                8.66815964335262,46.5395239768201
+                8.66734350665939,46.5386061377611
+                8.66699644975148,46.538250019151
+                8.66593025780884,46.5372269107594
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.66385279496269,46.5502765209179</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

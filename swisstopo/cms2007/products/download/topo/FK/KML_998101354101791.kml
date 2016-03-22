@@ -1,0 +1,147 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 1873</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 1873</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Grimsel</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Maeder, W.</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1942</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 1873</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_1873_Grimsel_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_1873_Grimsel_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998101354101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998101354101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.33853765574686,46.5663777227424
+                8.33860062874371,46.570164615078
+                8.33891664734389,46.5703420389273
+                8.33906251262369,46.5704848236767
+                8.3393256146141,46.5706176842214
+                8.33932681231094,46.5706896441543
+                8.33939352387048,46.5707790778911
+                8.33938152903537,46.5708421460701
+                8.33940896237659,46.5709228945134
+                8.33941016019113,46.5709948544443
+                8.33952904410483,46.5710838751228
+                8.33958406131144,46.5712543669203
+                8.33977070758649,46.5714957858639
+                8.3397991903935,46.5716394991445
+                8.33985615646171,46.5719269256813
+                8.33993636305831,46.5720432407718
+                8.33996604517613,46.5722589139273
+                8.34002136462085,46.5724473954832
+                8.34002406161774,46.5726093053001
+                8.34006663793351,46.5728158801211
+                8.34000486716396,46.5730232814482
+                8.33995494080669,46.5731586195195
+                8.34001101030092,46.5733920760194
+                8.3399348467011,46.5735186257075
+                8.33980605903679,46.5736186035342
+                8.33946722567596,46.5736392784652
+                8.33934968376475,46.5736312126458
+                8.33864144090381,46.5734029153561
+                8.33873235763393,46.5804372035
+                8.3526402014942,46.5804253260709
+                8.35160219432434,46.579992843705
+                8.35100682303973,46.5795028274885
+                8.35086029529798,46.5793240782307
+                8.35121099111803,46.5792313050133
+                8.35140757510622,46.5792837057637
+                8.35157412352338,46.5791024461942
+                8.35181924340326,46.578938548366
+                8.35179645061118,46.576041958097
+                8.34968591423113,46.5746644635131
+                8.34961721222208,46.5744581011388
+                8.34958643042432,46.5741794656926
+                8.34939503783292,46.573659218604
+                8.34950667618361,46.5733164699514
+                8.34962194745032,46.5731896006277
+                8.34960663257518,46.5730547803862
+                8.34886621510317,46.5724669564635
+                8.34812747668822,46.5719780724783
+                8.3472951847363,46.5713549880294
+                8.3474470178633,46.5710748937807
+                8.34742717721509,46.5706702238078
+                8.3473924814921,46.570157718207
+                8.3474928954808,46.5699230154005
+                8.34730319946809,46.5695017094756
+                8.3474272807596,46.5691228787174
+                8.34736721077831,46.5670992160681
+                8.34712415013859,46.5666063665251
+                8.34672821527284,46.5663306451271
+                8.34646345621217,46.5660988568454
+                8.34586843515415,46.5656178083825
+                8.34570801585979,46.5653851864333
+                8.3450652123796,46.5651654041803
+                8.33896162471596,46.5652048658195
+                8.33898077856272,46.5663562250828
+                8.33853765574686,46.5663777227424
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

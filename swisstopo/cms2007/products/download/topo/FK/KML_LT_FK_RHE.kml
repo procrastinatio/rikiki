@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1765">
+        <Document id="feat_1766">
+            <name>KML_LT_FK_RHE</name>
+        </Document>
+        <NetworkLink id="feat_1767">
+            <name>KML_LT_FK_RHE_label</name>
+            <Link id="link_851">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_LT_FK_RHE.kml_label.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1768">
+            <name>KML_997265824101791</name>
+            <Link id="link_852">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997265824101791.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1769">
+            <name>KML_9925823597801791</name>
+            <Link id="link_853">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_9925823597801791.kml</href>
+            </Link>
+        </NetworkLink>
+    </Document>
+</kml>

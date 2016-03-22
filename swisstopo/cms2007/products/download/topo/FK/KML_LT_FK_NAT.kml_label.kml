@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1742">
+        <Style id="stylesel_21">
+            <IconStyle id="substyle_43">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_842">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_42">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1743">
+            <name>LT FK NAT 1943 : 3.1;LT FK NAT 1943 : 2.1;LT FK NAT 1943 : 1.1</name>
+            <styleUrl>#stylesel_21</styleUrl>
+            <Point id="geom_857">
+                <coordinates>8.05199381244,46.3089405594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1744">
+            <name>LT FK NAT 1943 : 3;LT FK NAT 1943 : 2</name>
+            <styleUrl>#stylesel_21</styleUrl>
+            <Point id="geom_858">
+                <coordinates>8.06110015677,46.3639457584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1745">
+            <name>LT FK NAT 1943 : 3;LT FK NAT 1943 : 2</name>
+            <styleUrl>#stylesel_21</styleUrl>
+            <Point id="geom_859">
+                <coordinates>8.05214472296,46.3108108853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1746">
+            <name>LT FK NAT 1943 : 3;LT FK NAT 1943 : 2</name>
+            <styleUrl>#stylesel_21</styleUrl>
+            <Point id="geom_860">
+                <coordinates>8.05909595949,46.2555743117,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

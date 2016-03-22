@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1278">
+        <Style id="stylesel_12">
+            <IconStyle id="substyle_25">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_615">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_24">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1279">
+            <name>LT FK TIC 574f,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_638">
+                <coordinates>9.07673421846,46.0648181177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1280">
+            <name>LT FK TIC 574a,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_639">
+                <coordinates>9.07802997905,46.1079868596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1281">
+            <name>LT FK TIC 573p,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_640">
+                <coordinates>9.03050471181,46.0308409803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1282">
+            <name>LT FK TIC 573o,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_641">
+                <coordinates>8.98537551205,46.0337189067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1283">
+            <name>LT FK TIC 573n,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_642">
+                <coordinates>8.94017975927,46.0343303125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1284">
+            <name>LT FK TIC 573m,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_643">
+                <coordinates>8.89498297168,46.0349235833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1285">
+            <name>LT FK TIC 573l,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_644">
+                <coordinates>8.84978518043,46.0354987192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1286">
+            <name>LT FK TIC 573k,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_645">
+                <coordinates>9.03151383191,46.0654661844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1287">
+            <name>LT FK TIC 573i,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_646">
+                <coordinates>8.98629234823,46.0660961053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1288">
+            <name>LT FK TIC 573h,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_647">
+                <coordinates>8.94106979857,46.0667078803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1289">
+            <name>LT FK TIC 573g,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_648">
+                <coordinates>8.89584621409,46.0673015094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1290">
+            <name>LT FK TIC 573f,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_649">
+                <coordinates>8.85062162596,46.0678769926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1291">
+            <name>LT FK TIC 573e,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_650">
+                <coordinates>9.03277381212,46.1086354478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1292">
+            <name>LT FK TIC 573d,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_651">
+                <coordinates>8.98751654807,46.1092658756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1293">
+            <name>LT FK TIC 573c,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_652">
+                <coordinates>8.94225821804,46.1098781428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1294">
+            <name>LT FK TIC 573a,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_653">
+                <coordinates>8.85173848469,46.111048196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1295">
+            <name>LT FK TIC 572p,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_654">
+                <coordinates>8.80451899083,46.0333575081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1296">
+            <name>LT FK TIC 572e,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_655">
+                <coordinates>8.80640952448,46.1089077482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1297">
+            <name>LT FK TIC 572d,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_656">
+                <coordinates>8.76113858388,46.1089976365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1298">
+            <name>LT FK TIC 572c,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_657">
+                <coordinates>8.71587800228,46.1095190708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1299">
+            <name>LT FK TIC 572b,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_658">
+                <coordinates>8.67068759714,46.1131703766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1300">
+            <name>LT FK TIC 554x,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_659">
+                <coordinates>9.17016549497,46.157897015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1301">
+            <name>LT FK TIC 554w,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_660">
+                <coordinates>9.124618736,46.1504884899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1302">
+            <name>LT FK TIC 554v,1947</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_661">
+                <coordinates>9.07932785849,46.1511557747,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1303">
+            <name>LT FK TIC 554r,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_662">
+                <coordinates>9.12757342382,46.193632829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1304">
+            <name>LT FK TIC 554q,1947</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_663">
+                <coordinates>9.08062785678,46.1943248371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1305">
+            <name>LT FK TIC 553z,1948</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_664">
+                <coordinates>9.03403585268,46.1518048844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1306">
+            <name>LT FK TIC 553y,1948</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_665">
+                <coordinates>8.98874274975,46.152435819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1307">
+            <name>LT FK TIC 553x,1948</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_666">
+                <coordinates>8.94344858084,46.1530485786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1308">
+            <name>LT FK TIC 553w,1948</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_667">
+                <coordinates>8.89815337712,46.1536431631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1309">
+            <name>LT FK TIC 553v,1948</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_668">
+                <coordinates>8.85285716973,46.1542195725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1310">
+            <name>LT FK TIC 553u,1947</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_669">
+                <coordinates>9.03529995359,46.1949744683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1311">
+            <name>LT FK TIC 553t,1948</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_670">
+                <coordinates>8.98997095327,46.1956059098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1312">
+            <name>LT FK TIC 553s,1948</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_671">
+                <coordinates>8.94464088697,46.1962191617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1313">
+            <name>LT FK TIC 553r,1948</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_672">
+                <coordinates>8.89930978585,46.1968142239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1314">
+            <name>LT FK TIC 553q,1948</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_673">
+                <coordinates>8.85397768108,46.1973910964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1315">
+            <name>LT FK TIC 552z,1948</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_674">
+                <coordinates>8.80755998983,46.1547778068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1316">
+            <name>LT FK TIC 552y,1949</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_675">
+                <coordinates>8.76226186858,46.1553178661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1317">
+            <name>LT FK TIC 552x,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_676">
+                <coordinates>8.71696283714,46.1558397503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1318">
+            <name>LT FK TIC 552w,1946</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_677">
+                <coordinates>8.67147993108,46.1482484944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1319">
+            <name>LT FK TIC 552u,1948</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_678">
+                <coordinates>8.80864460379,46.1979497792,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

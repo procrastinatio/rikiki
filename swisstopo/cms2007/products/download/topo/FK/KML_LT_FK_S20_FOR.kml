@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_3">
+        <Document id="feat_4">
+            <name>KML_LT_FK_S20_FOR</name>
+        </Document>
+        <NetworkLink id="feat_5">
+            <name>KML_LT_FK_S20_FOR_label</name>
+            <Link id="link_1">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_LT_FK_S20_FOR.kml_label.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_6">
+            <name>KML_997302454101791</name>
+            <Link id="link_2">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997302454101791.kml</href>
+            </Link>
+        </NetworkLink>
+    </Document>
+</kml>

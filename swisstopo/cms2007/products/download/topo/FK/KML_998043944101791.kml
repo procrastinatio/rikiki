@@ -1,0 +1,144 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 714</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 714</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>M. Tamaro</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Zeller, M.</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1916</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 714</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_714_Tamaro_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_714_Tamaro_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998043944101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998043944101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.8657048427538,46.1039537467563
+                8.86610425353263,46.1033998790435
+                8.86655583506789,46.1023685106709
+                8.86695849222199,46.1009508906439
+                8.86735924537582,46.0994613175768
+                8.86734132089425,46.0977881106148
+                8.86724819926968,46.096700658431
+                8.86705729057843,46.0953355391831
+                8.86631426865192,46.0941213609032
+                8.86548548956619,46.0930882021527
+                8.86473124437125,46.0924319671478
+                8.86275082228777,46.0918631918476
+                8.86100828153889,46.0914893152308
+                8.85867089200087,46.0911139060322
+                8.85724659256895,46.0910418602724
+                8.85547607118337,46.091082109484
+                8.85350664037316,46.0914307216115
+                8.85035091322139,46.09191111342
+                8.8486905117421,46.0922107877784
+                8.84702800390856,46.0924294915879
+                8.84556384795725,46.0933204647229
+                8.84443182756656,46.0940543318908
+                8.84309455074752,46.0948537216214
+                8.84218339812898,46.0956297997554
+                8.84168939033058,46.0965356358861
+                8.84114688707851,46.0975680293487
+                8.84002857202468,46.0988414944788
+                8.83885156745169,46.0998457695521
+                8.83755953875289,46.1009054397705
+                8.83650989724666,46.1018361348728
+                8.83402536618017,46.1038102232271
+                8.83243621297351,46.1048915013235
+                8.83084814377682,46.1060177274472
+                8.82957686193954,46.106888112535
+                8.82733971927205,46.1084361450069
+                8.82793135327475,46.1093195529634
+                8.82862508450528,46.1101477190418
+                8.82949919338774,46.110946667095
+                8.83030522827533,46.1116114950094
+                8.83084323559109,46.1119107522333
+                8.83231159416091,46.1126753548121
+                8.83335880513125,46.1131572445578
+                8.83461203184833,46.1136005885848
+                8.83603738753754,46.1131870812316
+                8.83769411651941,46.1127167054921
+                8.84003159376,46.1120579137575
+                8.84175268185636,46.1115776813124
+                8.8437016479848,46.1109056493758
+                8.8457234641537,46.1095489085701
+                8.84680940076625,46.1090225354721
+                8.84754392573699,46.1089143991677
+                8.84960608181567,46.1081238896982
+                8.8508589909932,46.1080542320488
+                8.85219938546653,46.1078665042097
+                8.853341378387,46.1075103065507
+                8.8565921607422,46.1061739370028
+                8.85962741939218,46.105011128849
+                8.86111396408085,46.1044795687624
+                8.8621171159958,46.1042599856139
+                8.86353495816756,46.1040711442258
+                8.8657048427538,46.1039537467563
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

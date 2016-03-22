@@ -1,0 +1,121 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 552</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 552</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Reazzino</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Weber, Otto</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1912</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 552</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_552_Reazzino_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_552_Reazzino_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998038834101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998038834101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.9050869991394,46.1702879110048
+                8.90361013136079,46.1697852451185
+                8.90169909471873,46.1690272697509
+                8.9005741443445,46.1681241340397
+                8.89953791712359,46.1671478633984
+                8.90035015234146,46.1660487070517
+                8.90138425215026,46.1645328053146
+                8.9020745120978,46.1627514372786
+                8.90155072760752,46.1625332965824
+                8.89928671039519,46.1621217454483
+                8.89741127445414,46.1617141275535
+                8.89613487198337,46.1614337051325
+                8.89399773440483,46.1609214437257
+                8.89276643445774,46.1608743260451
+                8.89406967480847,46.1616762700553
+                8.89427607420134,46.1621324601615
+                8.89421978226597,46.1629339246645
+                8.89409108532244,46.1634484161846
+                8.89430709704271,46.1642643652253
+                8.89418870077266,46.1646797563636
+                8.89438577051481,46.1652710228174
+                8.8943709287052,46.1656850793063
+                8.8948122984549,46.1666960582597
+                8.89468503955427,46.1672645144592
+                8.8939863173584,46.1687400427891
+                8.8940870190788,46.1691166221202
+                8.89479402182581,46.1698902544897
+                8.89483216557435,46.1703486134606
+                8.89463082724981,46.171052980821
+                8.89451940996686,46.1722150395611
+                8.89490544622317,46.1730917764555
+                8.89517782947932,46.1735921006343
+                8.89658200833352,46.1733130695951
+                8.89850137268337,46.1729283955842
+                8.90040607548637,46.1724808987505
+                8.90212539824214,46.1718828209895
+                8.90386598161519,46.1711134960168
+                8.9050869991394,46.1702879110048
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

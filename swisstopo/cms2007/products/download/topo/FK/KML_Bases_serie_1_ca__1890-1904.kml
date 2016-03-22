@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1372">
+        <Document id="feat_1373">
+            <name>KML_Bases_serie_1_ca__1890-1904</name>
+        </Document>
+        <NetworkLink id="feat_1374">
+            <name>KML_Bases_serie_1_ca__1890-1904_label</name>
+            <Link id="link_659">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_Bases_serie_1_ca__1890-1904.kml_label.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1375">
+            <name>KML_997251744101791</name>
+            <Link id="link_660">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997251744101791.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1376">
+            <name>KML_997250804101791</name>
+            <Link id="link_661">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997250804101791.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1377">
+            <name>KML_997250454101791</name>
+            <Link id="link_662">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997250454101791.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1378">
+            <name>KML_997247244101791</name>
+            <Link id="link_663">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997247244101791.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1379">
+            <name>KML_997253534101791</name>
+            <Link id="link_664">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997253534101791.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1380">
+            <name>KML_997253374101791</name>
+            <Link id="link_665">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997253374101791.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1381">
+            <name>KML_997252334101791</name>
+            <Link id="link_666">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997252334101791.kml</href>
+            </Link>
+        </NetworkLink>
+    </Document>
+</kml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_842">
+        <Style id="stylesel_5">
+            <IconStyle id="substyle_11">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_397">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_10">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_843">
+            <name>LT FK GOT 39,1889</name>
+            <styleUrl>#stylesel_5</styleUrl>
+            <Point id="geom_434">
+                <coordinates>8.68191016683,46.5205983074,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_844">
+            <name>LT FK GOT 38,1889</name>
+            <styleUrl>#stylesel_5</styleUrl>
+            <Point id="geom_435">
+                <coordinates>8.63500169929,46.5211016369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_845">
+            <name>LT FK GOT 37,1889</name>
+            <styleUrl>#stylesel_5</styleUrl>
+            <Point id="geom_436">
+                <coordinates>8.58809236723,46.5215856077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_846">
+            <name>LT FK GOT 36,1890</name>
+            <styleUrl>#stylesel_5</styleUrl>
+            <Point id="geom_437">
+                <coordinates>8.54118220453,46.5220502196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_847">
+            <name>LT FK GOT 28,1889</name>
+            <styleUrl>#stylesel_5</styleUrl>
+            <Point id="geom_438">
+                <coordinates>8.6357174195,46.553482018,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

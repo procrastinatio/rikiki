@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 15</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 15</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Bosco di Bolle</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1888</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:5 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 15</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_15_Bosco di Rolle_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_15_Bosco di Rolle_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997407354101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997407354101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.62621425776274,46.5168034158388
+                8.62596906829199,46.5169139366849
+                8.62553080363196,46.5171344326438
+                8.62520940567592,46.5173357138
+                8.62508541692274,46.51762490014
+                8.62507711619036,46.5178409059185
+                8.62516100742577,46.5181009326255
+                8.62538684566515,46.5182965010885
+                8.62582017410926,46.5184449192653
+                8.62630384847762,46.5185118401385
+                8.62703390352441,46.5185222037732
+                8.62776455128642,46.5185595464279
+                8.6284717094848,46.5187140865307
+                8.62954924186517,46.5191166486975
+                8.62989629805715,46.5188970930731
+                8.63039911384105,46.5186489136299
+                8.63048181051019,46.5182611911172
+                8.63049777511726,46.5178021950815
+                8.63055262959242,46.5173337946331
+                8.63079444597943,46.517070356299
+                8.63134539624943,46.5166417347756
+                8.63148356696541,46.5164063722618
+                8.63129363293742,46.5160664927796
+                8.63088557461522,46.5158818438955
+                8.63020786834245,46.5158799532749
+                8.62944311176912,46.5160678999792
+                8.62835499315119,46.5163671859056
+                8.6273701090952,46.5166203986028
+                8.62664461721075,46.5168169122866
+                8.62621425776274,46.5168034158388
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.62828907672915,46.5175194452781</coordinates>
+        </Point>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.62120373797948,46.622169897608
+                8.62140362513705,46.6211602052296
+                8.62140362513705,46.6211602052296
+                8.62130325890388,46.6201536305822
+                8.62103103129867,46.6190498778025
+                8.62019180724492,46.6176911074246
+                8.61905093436401,46.6168662562393
+                8.61773107892389,46.6162141820996
+                8.61657800564979,46.6154254193839
+                8.61549806203526,46.6149957525016
+                8.6141309731158,46.614569039838
+                8.61287942688954,46.6140511539663
+                8.61153439004265,46.6134352552767
+                8.61011067950102,46.6128021572113
+                8.60911538478123,46.6126594499769
+                8.60798235539761,46.6127880453289
+                8.60691613778822,46.6129879164189
+                8.60589606071543,46.6135111805632
+                8.60521999290077,46.6142468292049
+                8.60487979124119,46.614817096613
+                8.60452711125092,46.6154144803193
+                8.60454883632809,46.6164218718707
+                8.60526710778226,46.6170352784959
+                8.60620147910401,46.6173765688648
+                8.60793641285419,46.6179075593516
+                8.60874339359903,46.6183940819574
+                8.61016217330469,46.6193961079603
+                8.61144189702018,46.620606469687
+                8.61260962309261,46.6214671059929
+                8.61366551901172,46.6219870149318
+                8.61556124784614,46.6226961637828
+                8.61741040807302,46.6230638938156
+                8.61843340035158,46.6232692197686
+                8.61946513268981,46.623276521362
+                8.62040233453541,46.6231408492311
+                8.62111051574772,46.6226836704095
+                8.62120373797948,46.622169897608
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.61296480343723,46.6179817736359</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

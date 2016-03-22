@@ -1,0 +1,173 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 978</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 978</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Aigle</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>R&uuml;esch, Robert;Br&auml;m, Arthur</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1918</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 978</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_978_Aigle_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_978_Aigle_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998056164101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998056164101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                7.01651674686174,46.3026991043221
+                6.98741800806258,46.3024969470033
+                6.9782027798437,46.3024598556257
+                6.97079166909985,46.3024294817635
+                6.96759879389047,46.3024162465158
+                6.967327753845,46.3037374966268
+                6.96704340887303,46.3050946738741
+                6.96662973917593,46.3078906346635
+                6.97195150240479,46.3079396752854
+                6.9724366377634,46.3073749400368
+                6.97248521526297,46.3062506693743
+                6.97197805101337,46.3048452414847
+                6.97203884359301,46.303810979055
+                6.97250841814402,46.3035430398251
+                6.97332789257451,46.3033395071815
+                6.97447776226108,46.303964933409
+                6.97545991814879,46.3044727171735
+                6.97627840157493,46.3043861040087
+                6.97774555873208,46.3043381096819
+                6.97851059623587,46.304431178093
+                6.97885602874528,46.3050263011593
+                6.97858912922717,46.3058888102973
+                6.97706909862533,46.3075738288932
+                6.9769331860797,46.3082929359006
+                6.97770775186853,46.3087998534168
+                6.9799371702822,46.3091957220174
+                6.9813483712766,46.3096422206544
+                6.982455977293,46.310690195146
+                6.98330000650158,46.3122138746324
+                6.98389046248926,46.3130168692571
+                6.98457503858989,46.3134334204555
+                6.98522232931966,46.3136519115525
+                6.98676769445442,46.3135951166434
+                6.98934300620811,46.3130116410741
+                6.99223033743728,46.3123663670385
+                6.99429999169556,46.3116908277219
+                6.99683743088288,46.3109541061289
+                6.999443753345,46.3113240721418
+                7.00198477090908,46.3117477007965
+                7.00403296126765,46.3121154079567
+                7.00565846354194,46.3133990290147
+                7.00791468137884,46.3153776988478
+                7.00957889478404,46.3167153847071
+                7.01189833701979,46.3172908779456
+                7.0141299674577,46.3174791776209
+                7.01601757758217,46.3168295465465
+                7.01645543244404,46.3156167544468
+                7.01651674686174,46.3026991043221
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                6.96973184055454,46.3275053025079
+                6.97338067037306,46.3275203448437
+                6.97578361518384,46.3274492249114
+                6.97788698091922,46.3274847853576
+                6.98037937382039,46.327584851239
+                6.98317171680763,46.3275331404656
+                6.98609637685863,46.3271850293426
+                6.98683340886049,46.3260005303817
+                6.98710274152331,46.3248411510294
+                6.98728438356212,46.3232946041331
+                6.98725304759245,46.3223769118189
+                6.98733319100661,46.3221073583301
+                6.98900937678056,46.3219610953696
+                6.99025552992865,46.3220020173508
+                6.99146280731108,46.3220337764169
+                6.99241284446254,46.3217676497394
+                6.99284861081493,46.3208787855196
+                6.99319760551566,46.3194858162765
+                6.9935043201602,46.318497488896
+                6.99359858766849,46.3180840545818
+                6.99287301831664,46.3179012866762
+                6.99107084051249,46.3175973207533
+                6.98763263439345,46.3173138115673
+                6.98415446370503,46.3171559781909
+                6.98192143982099,46.3171469971375
+                6.98046411935863,46.3175279299532
+                6.97851484349262,46.3192742031026
+                6.97673445863198,46.3209941447488
+                6.97544019330336,46.3220323692321
+                6.97388573522866,46.3231234866858
+                6.97137492991721,46.3251911818036
+                6.97077376806887,46.3256384894015
+                6.9702082184544,46.326472759284
+                6.96973184055454,46.3275053025079
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

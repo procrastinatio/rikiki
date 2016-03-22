@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 84</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 84</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Bois Noir</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Kuhn, Charles;Frot&eacute;, Eug&egrave;ne</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1893</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 84</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_84 _Bois Noir_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_84 _Bois Noir_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997691244101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997691244101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                7.0348990339565,46.1851023818551
+                7.0353699381294,46.184474366534
+                7.03603370159703,46.1840359455712
+                7.03450012826111,46.1830049655199
+                7.03475446879434,46.1731466279618
+                7.03292833468879,46.1731940593043
+                7.03086952837335,46.1731866476782
+                7.02840877899169,46.1732497051604
+                7.02641491759448,46.1732154611577
+                7.0246010395312,46.1733527593151
+                7.02510451849877,46.1752616844856
+                7.02591077112351,46.1765240258398
+                7.02760373195792,46.1786981528854
+                7.0288607093109,46.1803129428044
+                7.02827592136081,46.1805806906814
+                7.02697662104025,46.1811426919306
+                7.02628807557065,46.1814280429073
+                7.02497755838509,46.1817560929614
+                7.02322780253666,46.181938583278
+                7.02193350516517,46.1818348654507
+                7.02083064393823,46.1821006633873
+                7.02007661048212,46.1824756912958
+                7.0193222207595,46.1828956912769
+                7.0184269544846,46.1831082619561
+                7.01729835721435,46.183346942866
+                7.01578198983209,46.1834852097476
+                7.01536595497851,46.1836905528164
+                7.01454780646978,46.1839753471379
+                7.01371592717251,46.1843590364239
+                7.01241990282819,46.1844710996013
+                7.0115285299643,46.1841798723756
+                7.01138263948878,46.1945333538838
+                7.0341001426432,46.195021750449
+                7.03407115625183,46.188454805777
+                7.03414272429857,46.1875375036017
+                7.03433012107986,46.1867195682554
+                7.03464702712167,46.1859020957124
+                7.0348990339565,46.1851023818551
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>7.02375570868291,46.1840455101754</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

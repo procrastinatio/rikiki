@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 453</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 453</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Martinets</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Imobersteg, Gottfried;Hefti, Andreas</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1908</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 453</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_453_Martinets_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_453_Martinets_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997914674101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997914674101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                7.07834671475615,46.2191808602978
+                7.07963017326373,46.2191129770521
+                7.08240019642792,46.2196254946069
+                7.08307550168988,46.2194117241305
+                7.08209758483621,46.2183381611858
+                7.08144226584146,46.2174815051367
+                7.08170893007035,46.2163398982142
+                7.08278897221341,46.2156596321665
+                7.08491004236306,46.214307943072
+                7.08687225992448,46.2134594772908
+                7.08866186209673,46.2132491350549
+                7.09124051129425,46.2132570873456
+                7.09355635467939,46.2138399008561
+                7.09678873305827,46.2149921676333
+                7.09950491441834,46.2158189511932
+                7.10109793740159,46.2159676482747
+                7.10149982377695,46.2159418603042
+                7.10193157366715,46.215277468662
+                7.10189124689184,46.2134152490857
+                7.10143700195584,46.2114348525656
+                7.1004882976333,46.2097948111833
+                7.09865336695985,46.2089886955098
+                7.09625189370655,46.2076231053876
+                7.09561973297834,46.2071893979936
+                7.09441982596318,46.206385138233
+                7.09274211589052,46.2053365222529
+                7.09107983555964,46.2039101114282
+                7.08817709793828,46.2019850764596
+                7.08747953718976,46.2016680639803
+                7.08516450932215,46.2010491446177
+                7.08336702975729,46.2005397532846
+                7.08038015849356,46.1996577482579
+                7.07799891649843,46.1992813544597
+                7.07562922424324,46.1991208431899
+                7.07460154026935,46.1997562297092
+                7.07323555593722,46.2006064096878
+                7.07187013430137,46.2013666185964
+                7.07077807312888,46.2019297965713
+                7.07004649149734,46.2028269794257
+                7.07006832697067,46.2034297597982
+                7.07174438551181,46.2084997685635
+                7.07340865072304,46.2095756408743
+                7.07477207831339,46.2110823125124
+                7.07578506000626,46.2126867957756
+                7.07626633361723,46.2143615324294
+                7.07689657203786,46.2170262667716
+                7.07660949294321,46.219274264145
+                7.07637351236235,46.2216303728793
+                7.07766781812604,46.2199343310073
+                7.07834671475615,46.2191808602978
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>7.08598492900339,46.2104071857548</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

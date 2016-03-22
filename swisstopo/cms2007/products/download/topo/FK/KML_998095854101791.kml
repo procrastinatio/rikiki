@@ -1,0 +1,146 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 1925</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 1925</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Acquacalda 2</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1949</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 1925</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_1925_Aquacalda_2_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_1925_Aquacalda_2_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998095854101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998095854101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.83097722919499,46.5653307895571
+                8.83184653288643,46.5651492043749
+                8.84034880063084,46.5650447677683
+                8.8401209598497,46.5562484872375
+                8.83955610914191,46.5374516606715
+                8.80327328407593,46.5374970090265
+                8.79859213524902,46.5374721177799
+                8.79749730068771,46.5374852063493
+                8.79675550511837,46.5375390531159
+                8.7961442713854,46.5376003333827
+                8.79558381879017,46.5376070227337
+                8.79515595763388,46.5377020970631
+                8.79449258494867,46.5377639903781
+                8.79371078051025,46.5377823064872
+                8.79287684019024,46.5378012381273
+                8.79149480345048,46.5377996949419
+                8.79079142520633,46.537826054815
+                8.79081590412579,46.5398500732315
+                8.79082803194983,46.5408575852488
+                8.79083274219511,46.5420901086796
+                8.79077407413829,46.5433953610474
+                8.79078440461011,46.5443309188652
+                8.79077810497662,46.5451227235107
+                8.79172049068248,46.5452644631911
+                8.79293640534808,46.5453939412919
+                8.79455643231381,46.5455185891994
+                8.79587371338757,46.5455298672633
+                8.79776908207495,46.5457141618794
+                8.79999126269283,46.5459305013386
+                8.80203254542282,46.5462119449831
+                8.80401116557925,46.5465930710349
+                8.80536363085707,46.546963695376
+                8.80754951460735,46.5472882878029
+                8.80959293815135,46.5476505437125
+                8.80991537647551,46.5480245290901
+                8.81006191947671,46.5486615467175
+                8.81001314546349,46.5493099163507
+                8.81009929562094,46.550136598387
+                8.81012163112585,46.5510180316522
+                8.81038574675884,46.5516626281303
+                8.81057027702126,46.5522542022261
+                8.81099818875759,46.5526718974694
+                8.81151873831797,46.5531424548847
+                8.81198600537956,46.5535686685179
+                8.81281947676212,46.5540354415801
+                8.81393910842504,46.5544717582137
+                8.81484855078983,46.5548476284532
+                8.81564592770694,46.5554317786687
+                8.81732169006135,46.5561942171159
+                8.81820671331044,46.5566333359216
+                8.81876602018171,46.5570853972914
+                8.818922060018,46.5575783379049
+                8.81865402025901,46.558319342306
+                8.8174824180105,46.5594311807197
+                8.81617260202212,46.5607516105522
+                8.81471105204405,46.5617499690026
+                8.81352671167429,46.5628799126287
+                8.81269212039921,46.5639156499586
+                8.81181586534273,46.5648529170219
+                8.8107091838402,46.5659638983379
+                8.83024526349425,46.5657805982051
+                8.83076063410528,46.5655313741259
+                8.83097722919499,46.5653307895571
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,122 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 82</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 82</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Plateau de V&eacute;rossaz</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>W&uuml;thrich, Ernst</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1892</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 82</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_82_Verossaz_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_82_Verossaz_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997690634101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997690634101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                7.00082384434133,46.2205085183012
+                6.99971518142168,46.2197755679278
+                6.99881215493344,46.2192593036779
+                6.99812959845348,46.2187258998352
+                6.99728339573961,46.2175981363221
+                6.99669435956099,46.216723251734
+                6.99603886889675,46.2160550052806
+                6.9955388226855,46.215396359966
+                6.99551216391018,46.2138939719495
+                6.99078519256913,46.2135425060877
+                6.98955455172616,46.2134926462815
+                6.9887240511765,46.2136332760103
+                6.98804472890714,46.2142962536644
+                6.98768421216155,46.2155812036254
+                6.98746667214812,46.2168127488903
+                6.98745639315229,46.2180541167684
+                6.98800537588395,46.2190548305031
+                6.99004509911417,46.2200164866522
+                6.99114237635443,46.2205425858088
+                6.99237273582755,46.2206464009057
+                6.99372098636932,46.2205977393577
+                6.99462816529713,46.2206013050227
+                6.99545948854449,46.220370677605
+                6.99517840368372,46.2214670526937
+                6.99517415704873,46.2219887874515
+                6.99507567394119,46.2229419469331
+                6.99523932547983,46.2235363058899
+                6.99602252869188,46.2244479411996
+                6.99692787564921,46.2246853695712
+                6.99788696556906,46.2246891115743
+                6.99931409079996,46.2245147503568
+                7.00002953291962,46.2241936817783
+                7.00052673616668,46.223610887807
+                7.00094595027319,46.2230547770183
+                7.00127392923074,46.2225612818782
+                7.00139331409913,46.2222199065505
+                7.00138266420787,46.2219320026446
+                7.00135187036136,46.2209243640636
+                7.00082384434133,46.2205085183012
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

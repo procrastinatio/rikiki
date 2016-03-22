@@ -1,0 +1,125 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 551</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 551</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Magadino</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Weber, Otto</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1912</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 551</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_551_Magadino_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_551_Magadino_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998038814101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998038814101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.85521056988449,46.1486299408181
+                8.85664697369904,46.14861190955
+                8.8582266591465,46.1486280464639
+                8.85993481360074,46.148606556177
+                8.8614384989235,46.1486865837724
+                8.86275843695408,46.1486699423534
+                8.86448540995058,46.1488730706755
+                8.86598957999022,46.1489710256932
+                8.8682426622933,46.1489965014112
+                8.86784312997097,46.1485697035769
+                8.86680481252699,46.1479710466148
+                8.86654505186831,46.1474435093336
+                8.86686807339435,46.1469265946139
+                8.86725413974137,46.1463459021838
+                8.86716801904037,46.1460231000067
+                8.86671369620862,46.1454800309859
+                8.86565850997308,46.1447286290277
+                8.86473674504915,46.1441284811391
+                8.86315932214744,46.143698546974
+                8.8618493931032,46.1435981075995
+                8.86091377168459,46.1434569500935
+                8.8600165525733,46.142802473519
+                8.8593715218097,46.1423877350135
+                8.85877046955719,46.1421703732215
+                8.8574831165281,46.1424384756927
+                8.85636583022854,46.1427764034918
+                8.85536101207727,46.1429599602278
+                8.85442938710498,46.1429716476361
+                8.85385165947363,46.1426550006427
+                8.85292912666196,46.1420187802547
+                8.85196814345951,46.1418958608904
+                8.85065022859923,46.1419843284877
+                8.85012750405706,46.142791594797
+                8.85009110815794,46.1433858492065
+                8.84988347281235,46.143865283858
+                8.8482587556406,46.1446053386096
+                8.84728904728474,46.1451482626025
+                8.84984641897801,46.1459350480586
+                8.85299981027113,46.1467413023617
+                8.85433988132834,46.1470034127404
+                8.85490868811801,46.1474731184156
+                8.85521056988449,46.1486299408181
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>Festungskarten Grenzwerke</name>
+    <Folder>
+      <name>LT FK HEL</name>
+      <NetworkLink>
+        <Link>
+          <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_9925823404601791.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <Link>
+          <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997265754101791.kml</href>
+        </Link>
+      </NetworkLink>
+    </Folder>
+    <Folder>
+      <name>LT FK NAT</name>
+      <NetworkLink>
+        <Link>
+          <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_9925823603601791.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <Link>
+          <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997143514101791.kml</href>
+        </Link>
+      </NetworkLink>
+    </Folder>
+    <Folder>
+      <name>LT FK REU</name>
+      <NetworkLink>
+        <Link>
+          <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_9925823603501791.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <Link>
+          <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997269334101791.kml</href>
+        </Link>
+      </NetworkLink>
+    </Folder>
+    <Folder>
+      <name>LT FK RHE</name>
+      <NetworkLink>
+        <Link>
+          <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997265824101791.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <Link>
+          <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_9925823597801791.kml</href>
+        </Link>
+      </NetworkLink>
+    </Folder>
+    <Folder>
+      <name>LT FK RUE</name>
+      <NetworkLink>
+        <Link>
+          <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_9925823402401791.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <Link>
+          <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997269364101791.kml</href>
+        </Link>
+      </NetworkLink>
+    </Folder>
+    <Folder>
+      <name>LT FK VAL</name>
+      <NetworkLink>
+        <Link>
+          <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_9925823603401791.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <Link>
+          <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997143444101791.kml</href>
+        </Link>
+      </NetworkLink>
+    </Folder>
+  </Document>
+</kml>

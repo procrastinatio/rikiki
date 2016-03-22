@@ -1,0 +1,139 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 19</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 19</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Alpe di Ravina</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Culand, H.</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1890</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 19</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_19_Alpe di Ravina_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_19_Alpe di Ravina_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997407504101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997407504101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.64279680039461,46.5094316356593
+                8.64275058379853,46.507938679016
+                8.64273359005776,46.5071741425641
+                8.64285549175642,46.5062102078734
+                8.64308177232169,46.5058389467779
+                8.64389464100012,46.5054794593319
+                8.64465679500708,46.5051834808124
+                8.64560251154459,46.5049395278167
+                8.64633859608924,46.5046438146906
+                8.64759891095589,46.5039016842702
+                8.64853953915169,46.5028480597438
+                8.64865031107086,46.5019742027788
+                8.64890335422714,46.5010538471834
+                8.64916583415868,46.5005562342383
+                8.64895381303757,46.5003965523554
+                8.64862014715176,46.5000402384815
+                8.64828849383577,46.4997738690107
+                8.64784062229266,46.4995537186977
+                8.64703046215984,46.4994453797962
+                8.64623673834019,46.4994898039257
+                8.6454969165396,46.4996146201035
+                8.64421062212504,46.5003570036589
+                8.64328960410875,46.5011224907651
+                8.64229220487124,46.5019697491189
+                8.6413150356242,46.5025558810459
+                8.64019775193377,46.5032874324073
+                8.63990114660315,46.5034255178758
+                8.63965823903106,46.5036350083705
+                8.63919986580045,46.504116674465
+                8.63873132271522,46.5041396164313
+                8.63809682446699,46.5043172512682
+                8.63725947417615,46.5047489284766
+                8.63596618590073,46.505185403669
+                8.63468610188013,46.5056307216102
+                8.63388480724641,46.5059270442476
+                8.6322397423884,46.5063671753887
+                8.63108531429558,46.5066042096011
+                8.62993226066282,46.5069041940685
+                8.6291703972653,46.507218062952
+                8.6285782712183,46.5075481429422
+                8.62789396103043,46.5078342011906
+                8.62797587551227,46.5080042801762
+                8.62834991905092,46.5084232075061
+                8.62933528487819,46.5093845261199
+                8.62975119998623,46.5099289633574
+                8.63080227647271,46.509729014182
+                8.63195974455886,46.5096269013377
+                8.63319775327606,46.5096318899764
+                8.63413315226977,46.5095050986999
+                8.6353699661351,46.509456096308
+                8.63746738442878,46.5094339930292
+                8.63877052638557,46.5094382339015
+                8.64013840669945,46.5094237821785
+                8.64058393368773,46.5095360281913
+                8.64105032649834,46.5094141385493
+                8.64279680039461,46.5094316356593
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

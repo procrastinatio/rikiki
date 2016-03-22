@@ -1,0 +1,2869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_13">
+        <Style id="stylesel_2">
+            <IconStyle id="substyle_5">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_6">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_4">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_14">
+            <name>LT FK OA 891</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_2">
+                <coordinates>8.81958766493,46.1093050264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>LT FK OA 1843</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_3">
+                <coordinates>7.17618977736,46.2223918434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>LT FK OA 544</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_4">
+                <coordinates>9.00971633524,46.1641483376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>LT FK OA 54</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_5">
+                <coordinates>8.57272180434,46.6240753979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>LT FK OA 1743</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_6">
+                <coordinates>7.04100261823,46.2840856273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>LT FK OA 673;LT FK OA 933</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_7">
+                <coordinates>8.66531773231,46.6103135546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>LT FK OA 673;LT FK OA 933</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_8">
+                <coordinates>8.65173237848,46.609361503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>LT FK OA 673;LT FK OA 933</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_9">
+                <coordinates>8.65759614131,46.615830449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>LT FK OA 673;LT FK OA 933</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_10">
+                <coordinates>8.63751469893,46.6252021682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>LT FK OA 673;LT FK OA 933</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_11">
+                <coordinates>8.64431344532,46.6279193566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>LT FK OA 673;LT FK OA 933</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_12">
+                <coordinates>8.65367809626,46.6285575742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>LT FK OA 673;LT FK OA 933</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_13">
+                <coordinates>8.65391946872,46.6241916323,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>LT FK OA 1157</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_14">
+                <coordinates>8.61668735624,46.6905454814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>LT FK OA 978</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_15">
+                <coordinates>6.99156213144,46.3099528696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>LT FK OA 978</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_16">
+                <coordinates>6.98166987634,46.3223635248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>LT FK OA 22</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_17">
+                <coordinates>8.69558314882,46.6503607086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>LT FK OA 22</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_18">
+                <coordinates>8.66607631605,46.6506283743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>LT FK OA 43</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_19">
+                <coordinates>8.49731254665,46.5053919824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>LT FK OA 73</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_20">
+                <coordinates>8.52135070023,46.5888055144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>LT FK OA 1042</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_21">
+                <coordinates>8.94317554295,46.0530582186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>LT FK OA 19</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_22">
+                <coordinates>8.63854808253,46.5046903474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>LT FK OA 458</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_23">
+                <coordinates>7.10708293939,46.2248190849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>LT FK OA 906</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_24">
+                <coordinates>8.88370369301,46.0959242339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>LT FK OA 86</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_25">
+                <coordinates>7.02309140142,46.2270244629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>LT FK OA 1154</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_26">
+                <coordinates>8.7686554301,46.1568351773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>LT FK OA 886</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_27">
+                <coordinates>8.9274214451,46.0639019282,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>LT FK OA 110</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_28">
+                <coordinates>7.02262608103,46.1284032331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>LT FK OA 56</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_29">
+                <coordinates>8.58716630999,46.6389368501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>LT FK OA 454</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_30">
+                <coordinates>7.06828582546,46.2388578802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>LT FK OA 1871</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_31">
+                <coordinates>8.86785709841,46.0507995863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>LT FK OA 93</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_32">
+                <coordinates>6.94516510045,46.2228251219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>LT FK OA 1248</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_33">
+                <coordinates>8.36601112866,46.451653078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>LT FK OA 88</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_34">
+                <coordinates>6.97267436619,46.2326482141,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>LT FK OA 967</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_35">
+                <coordinates>8.7417085821,46.6766529664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>LT FK OA 1050</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_36">
+                <coordinates>8.8671069301,46.1980536201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>LT FK OA 928</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_37">
+                <coordinates>8.61646603795,46.6096867622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>LT FK OA 643</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_38">
+                <coordinates>8.97263849639,46.0788247666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>LT FK OA 578</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_39">
+                <coordinates>8.88820734953,46.1593584557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>LT FK OA 1901</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_40">
+                <coordinates>8.70527273095,46.5699305702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>LT FK OA 1822</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_41">
+                <coordinates>7.15229606269,46.2707034415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>LT FK OA 1683</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_42">
+                <coordinates>7.02751400745,46.2146445609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>LT FK OA 1683</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_43">
+                <coordinates>7.02450579001,46.2097669143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>LT FK OA 17</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_44">
+                <coordinates>8.59802507161,46.5405215112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>LT FK OA 17</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_45">
+                <coordinates>8.56910478979,46.5372860218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>LT FK OA 455</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_46">
+                <coordinates>7.10156470676,46.2557298629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>LT FK OA 1276</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_47">
+                <coordinates>8.32466116972,46.5306368948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>LT FK OA 957</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_48">
+                <coordinates>8.68294508608,46.5554313077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>LT FK OA 13</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_49">
+                <coordinates>8.59551798983,46.5177677094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>LT FK OA 97</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_50">
+                <coordinates>7.07035969798,46.1948218658,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>LT FK OA 82</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_51">
+                <coordinates>6.99443313104,46.2190892592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>LT FK OA 1189</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_52">
+                <coordinates>8.37792332265,46.5502530394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>LT FK OA 714</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_53">
+                <coordinates>8.84732158525,46.1023044376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>LT FK OA 106</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_54">
+                <coordinates>7.063047133,46.116805683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>LT FK OA 49</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_55">
+                <coordinates>8.44931444314,46.4719306598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>LT FK OA 49</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_56">
+                <coordinates>8.4599781466,46.4857256782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>LT FK OA 108</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_57">
+                <coordinates>7.0958297078,46.1140674067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>LT FK OA 1808</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_58">
+                <coordinates>7.08449974871,46.3272834558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>LT FK OA 1192</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_59">
+                <coordinates>8.57702998501,46.6922347328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>LT FK OA 83</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_60">
+                <coordinates>7.00274141193,46.2108545382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>LT FK OA 459</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_61">
+                <coordinates>7.08905802073,46.2363332286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>LT FK OA 79</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_62">
+                <coordinates>7.03046594747,46.2098065805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>LT FK OA 806</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_63">
+                <coordinates>8.96222825132,46.1227460992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>LT FK OA 29</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_64">
+                <coordinates>8.55420998965,46.5439285878,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>LT FK OA 908</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_65">
+                <coordinates>8.8863989929,46.1195337998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>LT FK OA 548</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_66">
+                <coordinates>8.91141488739,46.1135509202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>LT FK OA 104</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_67">
+                <coordinates>7.09970206892,46.1966228337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>LT FK OA 1770</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_68">
+                <coordinates>8.62428147907,46.6219939553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>LT FK OA 1940</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_69">
+                <coordinates>8.66305801191,46.4724816281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>LT FK OA 1931</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_70">
+                <coordinates>7.11480398047,46.0924261452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>LT FK OA 1924</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_71">
+                <coordinates>8.76799322963,46.5560706328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>LT FK OA 37</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_72">
+                <coordinates>8.72621811136,46.5170821642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>LT FK OA 1151</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_73">
+                <coordinates>8.84704371542,46.2033167791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>LT FK OA 1133</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_74">
+                <coordinates>8.80315680958,46.5116681343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>LT FK OA 1158</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_75">
+                <coordinates>8.4343463471,46.5268505197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>LT FK OA 1145</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_76">
+                <coordinates>8.76096784787,46.4761792579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>LT FK OA 96</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_77">
+                <coordinates>6.91709450064,46.2401869283,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>LT FK OA 1109</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_78">
+                <coordinates>8.46238227983,46.5819741183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>LT FK OA 917</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_79">
+                <coordinates>6.92183424576,46.3145319003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>LT FK OA 676</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_80">
+                <coordinates>8.58953524208,46.5796707873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>LT FK OA 81</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_81">
+                <coordinates>6.99976163555,46.189874037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>LT FK OA 895</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_82">
+                <coordinates>8.85059846426,46.1829841947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>LT FK OA 1758</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_83">
+                <coordinates>8.50324092852,46.6002128301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>LT FK OA 1773</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_84">
+                <coordinates>8.45309818158,46.552360338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>LT FK OA 1688</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_85">
+                <coordinates>8.69257339503,46.5032344138,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>LT FK OA 916</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_86">
+                <coordinates>6.90969968969,46.3114353022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>LT FK OA 1897</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_87">
+                <coordinates>8.92999996747,46.0319463538,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>LT FK OA 60</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_88">
+                <coordinates>8.59521695885,46.6855382869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>LT FK OA 1172</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_89">
+                <coordinates>8.5677762629,46.4973366155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>LT FK OA 35</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_90">
+                <coordinates>8.63503767157,46.4961805358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>LT FK OA 59</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_91">
+                <coordinates>8.59328864822,46.6797281035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>LT FK OA 59</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_92">
+                <coordinates>8.60248938282,46.7014870542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>LT FK OA 1530-1532</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_93">
+                <coordinates>8.93248061429,46.221473711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>LT FK OA 1530-1532</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_94">
+                <coordinates>8.92755940871,46.1998284609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>LT FK OA 940</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_95">
+                <coordinates>6.96852471223,46.3169302683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>LT FK OA 1872</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_96">
+                <coordinates>8.65688759135,46.7072166416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>LT FK OA 1904</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_97">
+                <coordinates>9.6307080772,47.1062304916,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>LT FK OA 1904</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_98">
+                <coordinates>9.63899194518,47.0948599981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>LT FK OA 1904</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_99">
+                <coordinates>9.62954291814,47.0829106433,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>LT FK OA 1904</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_100">
+                <coordinates>9.61444400465,47.0750810933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>LT FK OA 1053</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_101">
+                <coordinates>8.42466618755,46.5822081477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>LT FK OA 1053</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_102">
+                <coordinates>8.423778262,46.6043826745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>LT FK OA 1053</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_103">
+                <coordinates>8.43331265808,46.5997296704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>LT FK OA 5</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_104">
+                <coordinates>8.62791443463,46.5230113128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>LT FK OA 1933</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_105">
+                <coordinates>8.48532044015,46.4525141832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>LT FK OA 1122</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_106">
+                <coordinates>8.41396743711,46.4649706495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>LT FK OA 1537a</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_107">
+                <coordinates>8.87399095304,46.1032818143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>LT FK OA 607</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_108">
+                <coordinates>8.81689022197,46.1802335325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>LT FK OA 1927</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_109">
+                <coordinates>8.82108043413,46.5246411362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>LT FK OA 1144</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_110">
+                <coordinates>8.78491234263,46.500639542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>LT FK OA 75</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_111">
+                <coordinates>8.59932935108,46.6098717222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>LT FK OA 1161</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_112">
+                <coordinates>8.62102663875,46.7322713855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>LT FK OA 1140</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_113">
+                <coordinates>8.78428422372,46.4884651376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>LT FK OA 1453</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_114">
+                <coordinates>8.33812116871,46.5177746205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>LT FK OA 103</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_115">
+                <coordinates>7.03911407395,46.1843167479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>LT FK OA 30</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_116">
+                <coordinates>8.70795620459,46.509154462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>LT FK OA 87</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_117">
+                <coordinates>6.98393222595,46.2164027793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>LT FK OA 1932</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_118">
+                <coordinates>7.10432450207,46.085037215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>LT FK OA 21</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_119">
+                <coordinates>8.55428468443,46.5051618936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>LT FK OA 21</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_120">
+                <coordinates>8.53010503851,46.5007634868,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>LT FK OA 21</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_121">
+                <coordinates>8.52631623736,46.5047762523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>LT FK OA 21</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_122">
+                <coordinates>8.54173166383,46.527910601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>LT FK OA 1137</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_123">
+                <coordinates>8.97104032401,46.1278361592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>LT FK OA 6</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_124">
+                <coordinates>8.55862482801,46.5020783821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>LT FK OA 6</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_125">
+                <coordinates>8.53896500201,46.5008039996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>LT FK OA 6</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_126">
+                <coordinates>8.55483123705,46.5203066576,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>LT FK OA 34</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_127">
+                <coordinates>8.52056767699,46.4987675055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>LT FK OA 535</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_128">
+                <coordinates>8.5408802559,46.6314501832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>LT FK OA 111</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_129">
+                <coordinates>7.07558396778,46.2681534908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>LT FK OA 111</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_130">
+                <coordinates>7.07723311366,46.29328374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_143">
+            <name>LT FK OA 5</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_131">
+                <coordinates>8.58911184413,46.5272431331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_144">
+            <name>LT FK OA 102</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_132">
+                <coordinates>7.04630568835,46.1388239811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_145">
+            <name>LT FK OA 26</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_133">
+                <coordinates>8.59873451197,46.5486831686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_146">
+            <name>LT FK OA 61</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_134">
+                <coordinates>8.66962954124,46.6603603999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_147">
+            <name>LT FK OA 813</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_135">
+                <coordinates>8.84780571817,46.0859869885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_148">
+            <name>LT FK OA 51</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_136">
+                <coordinates>8.57077447994,46.6283591064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_149">
+            <name>LT FK OA 100</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_137">
+                <coordinates>7.05740420501,46.2617247601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>LT FK OA 959</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_138">
+                <coordinates>8.67622611071,46.6254718796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>LT FK OA 114</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_139">
+                <coordinates>8.53565728452,46.5336911302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_152">
+            <name>LT FK OA 549</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_140">
+                <coordinates>8.92947238154,46.1262606052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_153">
+            <name>LT FK OA 929</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_141">
+                <coordinates>8.63236670244,46.6741436515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_154">
+            <name>LT FK OA 1941</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_142">
+                <coordinates>8.68759656803,46.4608605443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_155">
+            <name>LT FK OA 41</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_143">
+                <coordinates>8.73099590602,46.4890118281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>LT FK OA 1159</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_144">
+                <coordinates>8.41050059071,46.5083445475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>LT FK OA 1164</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_145">
+                <coordinates>8.40260495883,46.5361922982,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>LT FK OA 45</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_146">
+                <coordinates>8.6742373948,46.4882037977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>LT FK OA 572</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_147">
+                <coordinates>8.84132576337,46.1407690242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>LT FK OA 547</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_148">
+                <coordinates>8.94721911133,46.1335104032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>LT FK OA 807</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_149">
+                <coordinates>8.98152006217,46.1108415795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>LT FK OA 1687, 1687a, 1695</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_150">
+                <coordinates>8.71037312846,46.4727894077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>LT FK OA 815</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_151">
+                <coordinates>8.8078742193,46.1250123432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>LT FK OA 1938</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_152">
+                <coordinates>8.56381853838,46.4635848807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>LT FK OA 573</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_153">
+                <coordinates>8.91932129304,46.1284095946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>LT FK OA 939</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_154">
+                <coordinates>6.97339322293,46.3154300838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>LT FK OA 1836</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_155">
+                <coordinates>8.40754540688,46.404300568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>LT FK OA 1874</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_156">
+                <coordinates>8.31561476614,46.5628232973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>LT FK OA 889</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_157">
+                <coordinates>7.04253919427,46.2904599799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>LT FK OA 1795</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_158">
+                <coordinates>8.57959990156,46.5007991461,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>LT FK OA 31</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_159">
+                <coordinates>8.58755967425,46.5001611649,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_172">
+            <name>LT FK OA 112</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_160">
+                <coordinates>8.53712854277,46.4815512813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_173">
+            <name>LT FK OA 11</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_161">
+                <coordinates>8.60821121668,46.519563097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_174">
+            <name>LT FK OA 890</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_162">
+                <coordinates>8.7629924109,46.5366507322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_175">
+            <name>LT FK OA 612</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_163">
+                <coordinates>6.95582140222,46.2941894896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_176">
+            <name>LT FK OA 551</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_164">
+                <coordinates>8.85773041706,46.1454763453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_177">
+            <name>LT FK OA 1139</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_165">
+                <coordinates>8.98312501453,46.1405824564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_178">
+            <name>LT FK OA 53</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_166">
+                <coordinates>8.60588375702,46.6419673894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_179">
+            <name>LT FK OA 1898</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_167">
+                <coordinates>8.8903145285,46.0337602454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_180">
+            <name>LT FK OA 456</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_168">
+                <coordinates>7.10605794927,46.2462257434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_181">
+            <name>LT FK OA 1870</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_169">
+                <coordinates>8.85302378534,46.0413420625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_182">
+            <name>LT FK OA 85</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_170">
+                <coordinates>7.01077913512,46.248316383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_183">
+            <name>LT FK OA 1809</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_171">
+                <coordinates>7.00564744086,46.3213062478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_184">
+            <name>LT FK OA 1142</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_172">
+                <coordinates>8.77498883312,46.4733520755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_185">
+            <name>LT FK OA 3</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_173">
+                <coordinates>8.59647572205,46.5314777433,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_186">
+            <name>LT FK OA 3</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_174">
+                <coordinates>8.58233272244,46.5389170804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_187">
+            <name>LT FK OA 1873</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_175">
+                <coordinates>8.34555864871,46.5728172262,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_188">
+            <name>LT FK OA 20</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_176">
+                <coordinates>8.63102553259,46.5334867988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_189">
+            <name>LT FK OA 546</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_177">
+                <coordinates>8.94943766593,46.1598784338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_190">
+            <name>LT FK OA 116</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_178">
+                <coordinates>8.90907987969,46.0907468683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_191">
+            <name>LT FK OA 1845</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_179">
+                <coordinates>7.22069099325,46.2041533287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_192">
+            <name>LT FK OA 89</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_180">
+                <coordinates>7.02568439025,46.1653775714,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_193">
+            <name>LT FK OA 1162</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_181">
+                <coordinates>8.59864409592,46.7197081015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_194">
+            <name>LT FK OA 1166</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_182">
+                <coordinates>8.63412516269,46.7305515464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_195">
+            <name>LT FK OA 1895</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_183">
+                <coordinates>8.98330118728,46.0531092324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_196">
+            <name>LT FK OA 915</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_184">
+                <coordinates>8.77831225065,46.6873667921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_197">
+            <name>LT FK OA 1121</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_185">
+                <coordinates>8.41807448417,46.4862025923,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_198">
+            <name>LT FK OA 1686, 1686a</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_186">
+                <coordinates>8.74844222028,46.4994463244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_199">
+            <name>LT FK OA 115</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_187">
+                <coordinates>8.91430978795,46.0990908044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_200">
+            <name>LT FK OA 888</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_188">
+                <coordinates>8.89807743328,46.0855005682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_201">
+            <name>LT FK OA 1191</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_189">
+                <coordinates>8.69073904256,46.5974954454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_202">
+            <name>LT FK OA 32</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_190">
+                <coordinates>8.68005981174,46.4933224464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_203">
+            <name>LT FK OA 48</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_191">
+                <coordinates>8.46441723005,46.4697800842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_204">
+            <name>LT FK OA 1937</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_192">
+                <coordinates>8.5784275055,46.4834655461,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_205">
+            <name>LT FK OA 633</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_193">
+                <coordinates>6.92641408955,46.2666051317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>LT FK OA 1800</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_194">
+                <coordinates>8.65483000363,46.6826509261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_207">
+            <name>LT FK OA 1837</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_195">
+                <coordinates>8.34902450784,46.4252426846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>LT FK OA 72</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_196">
+                <coordinates>8.50148662704,46.5926362617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>LT FK OA 536</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_197">
+                <coordinates>8.61788877529,46.6665393072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>LT FK OA 1134</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_198">
+                <coordinates>8.76979258857,46.5178757845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>LT FK OA 1152</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_199">
+                <coordinates>8.90636769453,46.1962099354,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>LT FK OA 609</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_200">
+                <coordinates>7.08490480353,46.1332662773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>LT FK OA 460</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_201">
+                <coordinates>7.09034214881,46.2463583658,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>LT FK OA 1772</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_202">
+                <coordinates>8.97772530085,46.1271963594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>LT FK OA 94</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_203">
+                <coordinates>6.96864493837,46.2053654847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>LT FK OA 24</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_204">
+                <coordinates>8.54754011255,46.5588560148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>LT FK OA 1774</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_205">
+                <coordinates>8.47228098405,46.5619397152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>LT FK OA 911</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_206">
+                <coordinates>8.69235665171,46.6813448179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>LT FK OA 9</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_207">
+                <coordinates>8.58915140544,46.532172851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_220">
+            <name>LT FK OA 654</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_208">
+                <coordinates>8.96851562197,46.0977928187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_221">
+            <name>LT FK OA 1275</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_209">
+                <coordinates>8.3370701668,46.5510508341,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>LT FK OA 70</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_210">
+                <coordinates>8.42786045052,46.5785099427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>LT FK OA 70</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_211">
+                <coordinates>8.36579218995,46.5804628897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>LT FK OA 70</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_212">
+                <coordinates>8.3688753122,46.5723501371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_225">
+            <name>LT FK OA 70</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_213">
+                <coordinates>8.38193062734,46.5632104501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_226">
+            <name>LT FK OA 70</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_214">
+                <coordinates>8.34566943273,46.5584134477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_227">
+            <name>LT FK OA 70</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_215">
+                <coordinates>8.36621802071,46.5330043694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_228">
+            <name>LT FK OA 1655</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_216">
+                <coordinates>7.02208554569,46.1975328846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_229">
+            <name>LT FK OA 677</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_217">
+                <coordinates>8.53378143139,46.5543831004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>LT FK OA 1138</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_218">
+                <coordinates>8.96132040331,46.1426061486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>LT FK OA 1043</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_219">
+                <coordinates>8.95945701298,46.056744441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>LT FK OA 814</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_220">
+                <coordinates>8.87379219377,46.065713052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>LT FK OA 605</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_221">
+                <coordinates>8.94289292312,46.0747089723,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>LT FK OA 71</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_222">
+                <coordinates>8.49587653896,46.6060661275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>LT FK OA 787</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_223">
+                <coordinates>8.99746778048,46.0944453179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>LT FK OA 98</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_224">
+                <coordinates>6.96269169697,46.2387147569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>LT FK OA 2</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_225">
+                <coordinates>8.65652160149,46.5310393847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>LT FK OA 2</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_226">
+                <coordinates>8.69420941361,46.5192935531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_239">
+            <name>LT FK OA 80</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_227">
+                <coordinates>6.99966079814,46.2297426066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_240">
+            <name>LT FK OA 626</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_228">
+                <coordinates>8.90570371768,46.1763619409,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>LT FK OA 69</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_229">
+                <coordinates>8.71637006489,46.6620052065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_242">
+            <name>LT FK OA 924</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_230">
+                <coordinates>7.0492766968,46.2864712622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_243">
+            <name>LT FK OA 1801</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_231">
+                <coordinates>7.13028573733,46.3090931151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_244">
+            <name>LT FK OA 38</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_232">
+                <coordinates>8.71274996339,46.4919169497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_245">
+            <name>LT FK OA 1894</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_233">
+                <coordinates>8.95660900218,46.0323827188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_246">
+            <name>LT FK OA 40</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_234">
+                <coordinates>8.69423448821,46.5293696385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_247">
+            <name>LT FK OA 14</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_235">
+                <coordinates>8.63633833201,46.5261436795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_248">
+            <name>LT FK OA 562</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_236">
+                <coordinates>7.08758495238,46.1671971048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_249">
+            <name>LT FK OA 105</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_237">
+                <coordinates>7.07410883619,46.1998176115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_250">
+            <name>LT FK OA 1160</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_238">
+                <coordinates>8.37828234633,46.5153446488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_251">
+            <name>LT FK OA 27</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_239">
+                <coordinates>8.63410395981,46.5495134765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_252">
+            <name>LT FK OA 68</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_240">
+                <coordinates>8.36168484954,46.5523111539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_253">
+            <name>LT FK OA 1156</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_241">
+                <coordinates>8.45522792925,46.5157801469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_254">
+            <name>LT FK OA 627</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_242">
+                <coordinates>8.93162683884,46.1610150347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_255">
+            <name>LT FK OA 1922, 1923</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_243">
+                <coordinates>8.47681638825,46.6413092458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_256">
+            <name>LT FK OA 1922, 1923</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_244">
+                <coordinates>8.52053432954,46.6491162339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_257">
+            <name>LT FK OA 95</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_245">
+                <coordinates>6.909473142,46.2266398706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_258">
+            <name>LT FK OA 610</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_246">
+                <coordinates>7.00567347222,46.2919442419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_259">
+            <name>LT FK OA 678</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_247">
+                <coordinates>8.5375997771,46.5812277202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_260">
+            <name>LT FK OA 1108</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_248">
+                <coordinates>8.40956058662,46.5656769123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_261">
+            <name>LT FK OA 971</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_249">
+                <coordinates>8.88618570698,46.1963533109,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_262">
+            <name>LT FK OA 90</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_250">
+                <coordinates>7.04014433325,46.2524536977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_263">
+            <name>LT FK OA 1056</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_251">
+                <coordinates>8.49175221671,46.5450998186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_264">
+            <name>LT FK OA 715</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_252">
+                <coordinates>8.84669411748,46.121601682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_265">
+            <name>LT FK OA 1807</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_253">
+                <coordinates>7.08484854449,46.3115960419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_266">
+            <name>LT FK OA 918</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_254">
+                <coordinates>6.94308333743,46.3134753946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_267">
+            <name>LT FK OA 58</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_255">
+                <coordinates>8.66778923423,46.6679194395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_268">
+            <name>LT FK OA 972</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_256">
+                <coordinates>8.73526446674,46.4681624999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_269">
+            <name>LT FK OA 1935</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_257">
+                <coordinates>8.52950960772,46.4537176048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_270">
+            <name>LT FK OA 50</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_258">
+                <coordinates>8.62437332187,46.6208234433,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_271">
+            <name>LT FK OA 1194</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_259">
+                <coordinates>8.53754423906,46.6671352304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_272">
+            <name>LT FK OA 723</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_260">
+                <coordinates>8.8273904742,46.1287325119,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_273">
+            <name>LT FK OA 18</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_261">
+                <coordinates>8.59505347417,46.6595940394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_274">
+            <name>LT FK OA 545</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_262">
+                <coordinates>8.97698207873,46.1623316869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_275">
+            <name>LT FK OA 1153</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_263">
+                <coordinates>8.84946207601,46.2161433367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_276">
+            <name>LT FK OA 1153</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_264">
+                <coordinates>8.86860033356,46.2115123013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_277">
+            <name>LT FK OA 611</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_265">
+                <coordinates>6.97788266231,46.2942814091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_278">
+            <name>LT FK OA 42</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_266">
+                <coordinates>8.49582552636,46.484606088,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_279">
+            <name>LT FK OA 1934</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_267">
+                <coordinates>8.48853418038,46.4235340245,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_280">
+            <name>LT FK OA 25</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_268">
+                <coordinates>8.56661064441,46.5477287631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_281">
+            <name>LT FK OA 36</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_269">
+                <coordinates>8.74145308527,46.5100349853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_282">
+            <name>LT FK OA 1435</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_270">
+                <coordinates>7.06750819399,46.2559471319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_283">
+            <name>LT FK OA 1435</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_271">
+                <coordinates>6.98415417431,46.2053299464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_284">
+            <name>LT FK OA 1148</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_272">
+                <coordinates>8.80173450332,46.2065804002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_285">
+            <name>LT FK OA 4</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_273">
+                <coordinates>8.62308687486,46.5263544756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_286">
+            <name>LT FK OA 62</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_274">
+                <coordinates>8.68287377451,46.6447962975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_287">
+            <name>LT FK OA 893</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_275">
+                <coordinates>8.86708951259,46.133635235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_288">
+            <name>LT FK OA 47</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_276">
+                <coordinates>8.48438599199,46.4769570527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_289">
+            <name>LT FK OA 65</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_277">
+                <coordinates>8.37381296956,46.5417854649,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_290">
+            <name>LT FK OA 65</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_278">
+                <coordinates>8.39858450958,46.5623694546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_291">
+            <name>LT FK OA 65</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_279">
+                <coordinates>8.34125316642,46.551665446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_292">
+            <name>LT FK OA 1877</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_280">
+                <coordinates>8.3094964844,46.6178636209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_293">
+            <name>LT FK OA 568</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_281">
+                <coordinates>8.94869273689,46.1002552394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_294">
+            <name>LT FK OA 1739, 1739a</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_282">
+                <coordinates>8.52196648347,46.5074807499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_295">
+            <name>LT FK OA 1810</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_283">
+                <coordinates>7.03917278517,46.3177141867,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_296">
+            <name>LT FK OA 1740, 1740a</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_284">
+                <coordinates>8.56584482603,46.5159606232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_297">
+            <name>LT FK OA 1793</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_285">
+                <coordinates>7.12479589661,46.2593949453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_298">
+            <name>LT FK OA 1051</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_286">
+                <coordinates>8.80503260391,46.1923794404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_299">
+            <name>LT FK OA 1831</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_287">
+                <coordinates>8.76303092426,46.7306128654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_300">
+            <name>LT FK OA 77</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_288">
+                <coordinates>7.05605161439,46.2031942826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_301">
+            <name>LT FK OA 33</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_289">
+                <coordinates>8.54742231002,46.4958097073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_302">
+            <name>LT FK OA 1141</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_290">
+                <coordinates>8.7761469289,46.4849264737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_303">
+            <name>LT FK OA 1769</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_291">
+                <coordinates>8.64810154221,46.6069530416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_304">
+            <name>LT FK OA 1819</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_292">
+                <coordinates>6.96375287846,46.0233089526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_305">
+            <name>LT FK OA 1876</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_293">
+                <coordinates>8.31960687135,46.6013499371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_306">
+            <name>LT FK OA 1928 - 1930</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_294">
+                <coordinates>9.05132717329,45.9213725215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_307">
+            <name>LT FK OA 1928 - 1930</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_295">
+                <coordinates>9.08367557675,45.8978710257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_308">
+            <name>LT FK OA 1928 - 1930</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_296">
+                <coordinates>9.05578247306,45.861810609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_309">
+            <name>LT FK OA 1928 - 1930</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_297">
+                <coordinates>9.07525361725,45.8803685549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_310">
+            <name>LT FK OA 552</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_298">
+                <coordinates>8.89896858523,46.1671642235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_311">
+            <name>LT FK OA 1165</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_299">
+                <coordinates>8.62552961037,46.7139257425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_312">
+            <name>LT FK OA 1832</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_300">
+                <coordinates>8.75874810337,46.7053096177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_313">
+            <name>LT FK OA 511</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_301">
+                <coordinates>6.92169171641,46.2557707271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_314">
+            <name>LT FK OA 1936</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_302">
+                <coordinates>8.54007634834,46.4798493908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_315">
+            <name>LT FK OA 1926</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_303">
+                <coordinates>8.78594702169,46.5317656485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_316">
+            <name>LT FK OA 927</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_304">
+                <coordinates>8.76209364226,46.6625450756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_317">
+            <name>LT FK OA 1147</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_305">
+                <coordinates>8.99519771371,46.0769680786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_318">
+            <name>LT FK OA 1110</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_306">
+                <coordinates>8.44530521568,46.6066323926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_319">
+            <name>LT FK OA 109</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_307">
+                <coordinates>7.00266097354,46.2727357799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_320">
+            <name>LT FK OA 64</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_308">
+                <coordinates>8.57469949752,46.5584980784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_321">
+            <name>LT FK OA 1150</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_309">
+                <coordinates>8.79259968858,46.1800234416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_322">
+            <name>LT FK OA 1833, 1834</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_310">
+                <coordinates>8.68631652895,46.680178531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_323">
+            <name>LT FK OA 909</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_311">
+                <coordinates>8.85084712986,46.1110953439,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_324">
+            <name>LT FK OA 560</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_312">
+                <coordinates>7.0961514263,46.1803120372,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_325">
+            <name>LT FK OA 1846</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_313">
+                <coordinates>7.13415021612,46.1613681205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_326">
+            <name>LT FK OA 11</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_314">
+                <coordinates>8.58184106326,46.5378604309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_327">
+            <name>LT FK OA 510</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_315">
+                <coordinates>6.94853781026,46.2671618848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_328">
+            <name>LT FK OA 1193</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_316">
+                <coordinates>8.56030625005,46.6613267386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_329">
+            <name>LT FK OA 1869</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_317">
+                <coordinates>8.84340905374,46.0367119964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_330">
+            <name>LT FK OA 453</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_318">
+                <coordinates>7.085984929,46.2104071858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_331">
+            <name>LT FK OA 1640</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_319">
+                <coordinates>7.05775493359,46.2560856404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_332">
+            <name>LT FK OA 8;LT FK OA 7</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_320">
+                <coordinates>8.57419915614,46.5228408,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_333">
+            <name>LT FK OA 8;LT FK OA 7</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_321">
+                <coordinates>8.57393703339,46.5283672947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_334">
+            <name>LT FK OA 1658,1658a</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_322">
+                <coordinates>7.00109391428,46.1933335486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_335">
+            <name>LT FK OA 99</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_323">
+                <coordinates>7.0690409291,46.2192857624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_336">
+            <name>LT FK OA 892</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_324">
+                <coordinates>8.86536277909,46.1403508322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_337">
+            <name>LT FK OA 153;LT K SEE 12b</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_325">
+                <coordinates>8.69092814507,46.5397163701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_338">
+            <name>LT FK OA 628</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_326">
+                <coordinates>8.93442151622,46.1788733989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_339">
+            <name>LT FK OA 91</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_327">
+                <coordinates>7.0506379601,46.1683446394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_340">
+            <name>LT FK OA 960</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_328">
+                <coordinates>8.47415672053,46.5134141785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_341">
+            <name>LT FK OA 907</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_329">
+                <coordinates>8.82479490771,46.0973652966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_342">
+            <name>LT FK OA 1797</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_330">
+                <coordinates>9.00703733465,46.1754502199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_343">
+            <name>LT FK OA 10</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_331">
+                <coordinates>8.60600715406,46.5146556153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_344">
+            <name>LT FK OA 10</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_332">
+                <coordinates>8.59054539307,46.5204901874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_345">
+            <name>LT FK OA 561</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_333">
+                <coordinates>7.1060051143,46.1359931097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_346">
+            <name>LT FK OA 78</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_334">
+                <coordinates>7.04455440014,46.1949687267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_347">
+            <name>LT FK OA 1899</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_335">
+                <coordinates>8.71731910781,46.6115678259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_348">
+            <name>LT FK OA 1796</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_336">
+                <coordinates>8.55161144745,46.4949050893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_349">
+            <name>LT FK OA 887</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_337">
+                <coordinates>8.92822266694,46.1444692792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_350">
+            <name>LT FK OA 1149</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_338">
+                <coordinates>8.82541504163,46.205266674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_351">
+            <name>LT FK OA 608</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_339">
+                <coordinates>6.92342139021,46.2867780986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_352">
+            <name>LT FK OA 1155</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_340">
+                <coordinates>8.47404940012,46.6155149392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_353">
+            <name>LT FK OA 460</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_341">
+                <coordinates>7.09028169159,46.2517555837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_354">
+            <name>LT FK OA 674</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_342">
+                <coordinates>8.63293523783,46.5810589332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_355">
+            <name>LT FK OA 16</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_343">
+                <coordinates>8.63456185189,46.5466297391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_356">
+            <name>LT FK OA 919</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_344">
+                <coordinates>6.94961628905,46.314601273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_357">
+            <name>LT FK OA 977</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_345">
+                <coordinates>7.05396108008,46.2827810438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_358">
+            <name>LT FK OA 1921</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_346">
+                <coordinates>9.02207699123,46.0239599141,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_359">
+            <name>LT FK OA 805</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_347">
+                <coordinates>8.90552689561,46.1409157127,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_360">
+            <name>LT FK OA 543</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_348">
+                <coordinates>8.96555988911,46.1803012179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_361">
+            <name>LT FK OA 884</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_349">
+                <coordinates>8.72015856159,46.5418918356,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_362">
+            <name>LT FK OA 57</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_350">
+                <coordinates>8.62861433529,46.6527350708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_363">
+            <name>LT FK OA 541</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_351">
+                <coordinates>8.9342342471,46.0946357411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_364">
+            <name>LT FK OA 1143</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_352">
+                <coordinates>8.76564606673,46.5124721517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_365">
+            <name>LT FK OA 508</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_353">
+                <coordinates>7.05791540691,46.2795019837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_366">
+            <name>LT FK OA 913</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_354">
+                <coordinates>8.53729473371,46.6343096985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_367">
+            <name>LT FK OA 84</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_355">
+                <coordinates>7.02375570868,46.1840455102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_368">
+            <name>LT FK OA 1</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_356">
+                <coordinates>8.67352045586,46.5133304373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_369">
+            <name>LT FK OA 1062</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_357">
+                <coordinates>8.49610633945,46.5724264859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_370">
+            <name>LT FK OA 1896</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_358">
+                <coordinates>8.9908562022,46.0338414678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_371">
+            <name>LT FK OA 12</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_359">
+                <coordinates>8.54137429237,46.5110006648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_372">
+            <name>LT FK OA 1684</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_360">
+                <coordinates>7.0516933933,46.1820036584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_373">
+            <name>LT FK OA 39</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_361">
+                <coordinates>8.66385279496,46.5502765209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_374">
+            <name>LT FK OA 788</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_362">
+                <coordinates>8.90606829894,46.0580819446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_375">
+            <name>LT FK OA 512</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_363">
+                <coordinates>8.51247743982,46.5276868492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_376">
+            <name>LT FK OA 894</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_364">
+                <coordinates>9.00430817162,46.1561888533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_377">
+            <name>LT FK OA 675</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_365">
+                <coordinates>8.65529337001,46.5831252593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_378">
+            <name>LT FK OA 542</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_366">
+                <coordinates>8.86989496312,46.1729885995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_379">
+            <name>LT FK OA 113</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_367">
+                <coordinates>8.50452866397,46.5205195149,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_380">
+            <name>LT FK OA 1146</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_368">
+                <coordinates>8.75887782412,46.4983718895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_381">
+            <name>LT FK OA 1135</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_369">
+                <coordinates>8.45246480203,46.5533555823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_382">
+            <name>LT FK OA 55</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_370">
+                <coordinates>8.56158378195,46.590152042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_383">
+            <name>LT FK OA 1900</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_371">
+                <coordinates>8.71617327557,46.5862817931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_384">
+            <name>LT FK OA 44</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_372">
+                <coordinates>8.51330253023,46.4845320804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_385">
+            <name>LT FK OA 1903</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_373">
+                <coordinates>9.62088234323,47.1354823993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_386">
+            <name>LT FK OA 46</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_374">
+                <coordinates>8.4798010825,46.4952078876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_387">
+            <name>LT FK OA 28</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_375">
+                <coordinates>8.60390503621,46.5605058037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_388">
+            <name>LT FK OA 23</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_376">
+                <coordinates>8.57893724047,46.5510245391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_389">
+            <name>LT FK OA 1939</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_377">
+                <coordinates>8.62220898827,46.4855908949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_390">
+            <name>LT FK OA 63</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_378">
+                <coordinates>8.69221242853,46.6661240376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_391">
+            <name>LT FK OA 912</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_379">
+                <coordinates>8.7211748052,46.6398192619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_392">
+            <name>LT FK OA 15</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_380">
+                <coordinates>8.62828907673,46.5175194453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_393">
+            <name>LT FK OA 15</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_381">
+                <coordinates>8.61296480344,46.6179817736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_394">
+            <name>LT FK OA 1875</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_382">
+                <coordinates>8.35093079259,46.5966591589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_395">
+            <name>LT FK OA 117</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_383">
+                <coordinates>8.44606200923,46.4825932436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_396">
+            <name>LT FK OA 1163</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_384">
+                <coordinates>8.30899750963,46.4992713087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_397">
+            <name>LT FK OA 92</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_385">
+                <coordinates>7.05431833672,46.2156564042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_398">
+            <name>LT FK OA 92</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_386">
+                <coordinates>7.04621809323,46.2445767043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_399">
+            <name>LT FK OA 1820-1821</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_387">
+                <coordinates>8.19784974376,47.6134066537,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_400">
+            <name>LT FK OA 1820-1821</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_388">
+                <coordinates>8.16077106996,47.6009347989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_401">
+            <name>LT FK OA 1820-1821</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_389">
+                <coordinates>8.13124369956,47.5901871235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_402">
+            <name>LT FK OA 1820-1821</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_390">
+                <coordinates>8.13546119588,47.5833264433,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_403">
+            <name>LT FK OA 969</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_391">
+                <coordinates>8.71092468344,46.5550948177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_404">
+            <name>LT FK OA 101</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_392">
+                <coordinates>7.04581592034,46.2320263183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_405">
+            <name>LT FK OA 1925</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_393">
+                <coordinates>8.81547044888,46.5516101885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_406">
+            <name>LT FK OA 1844</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_394">
+                <coordinates>7.13638776951,46.2061363093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_407">
+            <name>LT FK OA 1902</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_395">
+                <coordinates>8.74326483805,46.5646969912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_408">
+            <name>LT FK OA 914</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_396">
+                <coordinates>8.64962887234,46.5655702249,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_409">
+            <name>LT FK OA 1842</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_397">
+                <coordinates>8.3440596984,46.4231952787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_410">
+            <name>LT FK OA 1641-1642</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_398">
+                <coordinates>8.46588320237,46.4550667405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_411">
+            <name>LT FK OA 74</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_399">
+                <coordinates>8.48626472658,46.6017917265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_412">
+            <name>LT FK OA 76</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_400">
+                <coordinates>7.04924390956,46.1840642456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_413">
+            <name>LT FK OA 1835</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_401">
+                <coordinates>8.73080699711,46.6973975556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_414">
+            <name>LT FK OA 52</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_402">
+                <coordinates>8.52714785422,46.6123118878,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_415">
+            <name>LT FK OA 107</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_403">
+                <coordinates>7.07244774458,46.0999608493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_416">
+            <name>LT FK OA 550</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_404">
+                <coordinates>8.90547897928,46.1304707379,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_417">
+            <name>LT FK OA 457</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_405">
+                <coordinates>7.09258153001,46.2245057707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_418">
+            <name>LT FK OA 457</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_406">
+                <coordinates>7.12074666976,46.2287804205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_419">
+            <name>LT FK OA 1190</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_407">
+                <coordinates>8.35826587087,46.5736598502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_420">
+            <name>LT FK OA 1049</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_408">
+                <coordinates>8.7884864768,46.1588040939,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

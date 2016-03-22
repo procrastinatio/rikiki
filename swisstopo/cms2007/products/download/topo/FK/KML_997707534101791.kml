@@ -1,0 +1,129 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 103</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 103</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Mont de Collonges</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Rychner, Louis</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1893</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 103</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_103_Mont de Collonges_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_103_Mont de Collonges_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997707534101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997707534101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                7.03407115625183,46.188454805777
+                7.03489755894958,46.1887995965304
+                7.0360228705676,46.1890105114053
+                7.03722756039921,46.1889968052837
+                7.03860208067598,46.1887857828884
+                7.03961399656186,46.1885644684858
+                7.04101643467008,46.188074649716
+                7.04189939711491,46.187771900178
+                7.04212180449005,46.1874668281074
+                7.04240261956555,46.1862533983015
+                7.04268191959522,46.1852468628946
+                7.04303963385792,46.1841416491474
+                7.04340845867997,46.1832883517907
+                7.0437108897218,46.1826597128331
+                7.04410533469939,46.1818424855426
+                7.04413741868574,46.1809880098529
+                7.04397336161391,46.1803937234506
+                7.04362592216529,46.1800866570131
+                7.04291438395293,46.1799852151701
+                7.04244883429173,46.1798936272408
+                7.04213593949213,46.180180390877
+                7.04188753061182,46.1805033627412
+                7.04161171173624,46.1810331379818
+                7.04126054479005,46.1812388038271
+                7.04084554178048,46.1813183046261
+                7.04043211422074,46.1811819135678
+                7.04018855503301,46.1808392198644
+                7.03986802129513,46.1803973017398
+                7.0395597186341,46.1800543781786
+                7.03916037428191,46.1797651059214
+                7.03894134463152,46.1796114051285
+                7.03844924470177,46.179609663392
+                7.03803358912212,46.179779108138
+                7.03773322504386,46.1801198780595
+                7.03741818606642,46.1806944823466
+                7.03741414840447,46.1812432034896
+                7.03738176030545,46.1821246635672
+                7.03710436581498,46.1828613227498
+                7.03668503396788,46.1835255112194
+                7.03603370159703,46.1840359455712
+                7.0353699381294,46.184474366534
+                7.0348990339565,46.1851023818551
+                7.03464702712167,46.1859020957124
+                7.03433012107986,46.1867195682554
+                7.03414272429857,46.1875375036017
+                7.03407115625183,46.188454805777
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

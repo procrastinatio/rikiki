@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>Festungskarten</name>
+    <NetworkLink>
+      <Link>
+        <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997286194101791.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Link>
+        <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997291594101791.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Link>
+        <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997291464101791.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Link>
+        <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997290914101791.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Link>
+        <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997290804101791.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Link>
+        <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997290704101791.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Link>
+        <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997290484101791.kml</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

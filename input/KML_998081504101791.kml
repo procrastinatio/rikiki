@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 1774</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 1774</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Muttenalp 2</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Maeder, W.</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1934</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 1774</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_1774_Muttenalp_2_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_1774_Muttenalp_2_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998081504101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998081504101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.45468781968131,46.5710495450619
+                8.45536060327778,46.5714483711826
+                8.45687152768297,46.572019623766
+                8.45821766226425,46.5721515123428
+                8.45829355542556,46.5727176019127
+                8.45947337426009,46.5730218964431
+                8.46053187308902,46.5724276337945
+                8.46275123082133,46.5725156387164
+                8.46484570230137,46.572208887187
+                8.46658810639539,46.5725979970546
+                8.47282300448208,46.5718757747144
+                8.47341199783586,46.5719783767804
+                8.47422341163734,46.5721149374052
+                8.47652938704169,46.5733174352177
+                8.4782409033852,46.5741294788762
+                8.47950293265702,46.5746307361673
+                8.48088393744405,46.5752118574816
+                8.4886108525753,46.570696613808
+                8.48868474425766,46.5704710222578
+                8.48871654065211,46.5700928804973
+                8.48829429817451,46.5698448773023
+                8.48798612608681,46.5694248893249
+                8.48749449700026,46.5689616097694
+                8.48548039696978,46.5653186279252
+                8.48995150793402,46.5584581367202
+                8.49006204969126,46.5581062557
+                8.49021135878795,46.5577360234281
+                8.48983839357127,46.5573346324064
+                8.48981836663029,46.5569749615932
+                8.48983431299551,46.556453023236
+                8.48998222138435,46.5560108329743
+                8.49017529321795,46.5552083691236
+                8.49011405186225,46.5547411224959
+                8.49023744884467,46.5543801259461
+                8.48999541590669,46.5540045143487
+                8.4896117099554,46.5537201752043
+                8.49005757290896,46.5531762712251
+                8.48997375246382,46.5528891611731
+                8.48971956314944,46.5525586433835
+                8.48946223388197,46.5520662188911
+                8.48920927355342,46.551798663445
+                8.488942230639,46.5514772590995
+                8.48867711018096,46.5512547967748
+                8.48832107604097,46.5510511656151
+                8.48769958259212,46.5506070791538
+                8.48731608704708,46.5503317270106
+                8.48693259540457,46.550056373571
+                8.48635406716769,46.5498098046517
+                8.48562952253692,46.5494296310251
+                8.4852827232405,46.5490279849102
+                8.48483458631657,46.5487802085524
+                8.48385349040067,46.5486182965692
+                8.48287292087309,46.5484833605113
+                8.48183011698226,46.5485019254168
+                8.48203191649188,46.5488239444689
+                8.48266221697485,46.5490520671546
+                8.4821638169371,46.5495784310782
+                8.4817410329807,46.5499691535279
+                8.48135666288089,46.5503235366766
+                8.48077828004449,46.5507606635664
+                8.45434567003294,46.5708906654507
+                8.45468781968131,46.5710495450619
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.4722809840494,46.5619397151715</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 893</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 893</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Motto Croce</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Gmelin, A.</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1916</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 893</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_893_Motto Croce_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_893_Motto Croce_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998047964101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998047964101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.88268596263839,46.1390959038763
+                8.88205144810844,46.1381053495693
+                8.88136282686347,46.1370255134366
+                8.87875307308833,46.1357272808591
+                8.87729129100256,46.134279408708
+                8.87464659070747,46.1336113199734
+                8.87410804965192,46.132817437096
+                8.87313370094143,46.1321820405507
+                8.87264646895956,46.13136950514
+                8.87185598849681,46.1298500564928
+                8.8706415064218,46.128443947531
+                8.8696601992538,46.1275387014055
+                8.8691613732328,46.1277609528832
+                8.86829728148322,46.1278708688628
+                8.86762769196227,46.1279963096347
+                8.86664672479905,46.1290793667033
+                8.86531432635966,46.1290962170216
+                8.86446267148865,46.1291879521197
+                8.86321375645096,46.1294286472953
+                8.86194036606811,46.1297236190075
+                8.86018691837475,46.1299706417241
+                8.85891706949762,46.1299056556695
+                8.8575816073877,46.1298054924117
+                8.85579735874316,46.1298638976836
+                8.85440609178319,46.1301062820129
+                8.85314534084277,46.1303919981983
+                8.85156769045758,46.130933582365
+                8.85497383365003,46.1315386725506
+                8.85618744633134,46.1319283003772
+                8.85744362895168,46.1324613317374
+                8.85899404775164,46.1333595230009
+                8.86104250019758,46.1339995034215
+                8.86290187334408,46.1348307698333
+                8.86456230406205,46.1354755830467
+                8.86555354711595,46.1357689542498
+                8.86662478057041,46.136151274862
+                8.86774191079023,46.1368029141707
+                8.86964827843714,46.1374445402278
+                8.87105973941471,46.1379664579348
+                8.87242856626431,46.1378501127421
+                8.87387667134136,46.1377957219417
+                8.87486445447351,46.1379541014682
+                8.87586873594196,46.1382472175014
+                8.87692275138886,46.1389535536124
+                8.87766782215949,46.1392319623843
+                8.88113137732978,46.1395296430004
+                8.88268596263839,46.1390959038763
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.86708951259073,46.1336352349998</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

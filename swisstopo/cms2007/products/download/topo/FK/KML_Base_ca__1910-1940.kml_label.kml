@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1254">
+        <Style id="stylesel_11">
+            <IconStyle id="substyle_23">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_603">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_22">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1255">
+            <name>LT FK CEN 8,1926a</name>
+            <styleUrl>#stylesel_11</styleUrl>
+            <Point id="geom_628">
+                <coordinates>8.76731766094,46.176850843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1256">
+            <name>LT FK CEN 27,1918a</name>
+            <styleUrl>#stylesel_11</styleUrl>
+            <Point id="geom_629">
+                <coordinates>8.99789100042,46.0875295938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1257">
+            <name>LT FK CEN 26,1913a</name>
+            <styleUrl>#stylesel_11</styleUrl>
+            <Point id="geom_630">
+                <coordinates>8.95135823197,46.0881633691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1258">
+            <name>LT FK CEN 25,1918a</name>
+            <styleUrl>#stylesel_11</styleUrl>
+            <Point id="geom_631">
+                <coordinates>8.90482436166,46.0887779391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1259">
+            <name>LT FK CEN 24,1924a</name>
+            <styleUrl>#stylesel_11</styleUrl>
+            <Point id="geom_632">
+                <coordinates>8.85828942339,46.0893733037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1260">
+            <name>LT FK CEN 23,1924a</name>
+            <styleUrl>#stylesel_11</styleUrl>
+            <Point id="geom_633">
+                <coordinates>8.81175345107,46.0899494631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1261">
+            <name>LT FK CEN 19,1918a</name>
+            <styleUrl>#stylesel_11</styleUrl>
+            <Point id="geom_634">
+                <coordinates>8.95255529659,46.1313336172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1262">
+            <name>LT FK CEN 18,1918a</name>
+            <styleUrl>#stylesel_11</styleUrl>
+            <Point id="geom_635">
+                <coordinates>8.90598459353,46.1319486816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1263">
+            <name>LT FK CEN 17,1921a</name>
+            <styleUrl>#stylesel_11</styleUrl>
+            <Point id="geom_636">
+                <coordinates>8.8594128225,46.1325445251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1264">
+            <name>LT FK CEN 10,1926a</name>
+            <styleUrl>#stylesel_11</styleUrl>
+            <Point id="geom_637">
+                <coordinates>8.86053805712,46.1757159067,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

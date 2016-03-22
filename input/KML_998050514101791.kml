@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 909</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 909</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Ponc. del Macello</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Ackermann</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1916</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 909</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_909_Ponc del Macello_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_909_Ponc del Macello_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998050514101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998050514101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.86571855776986,46.1173410564607
+                8.8660235302252,46.1161406019867
+                8.8666193484017,46.114684551075
+                8.86692074162024,46.1128543515032
+                8.86715700180352,46.1115018151898
+                8.86702691902676,46.109497138435
+                8.86702500641479,46.1084355206939
+                8.86601543564128,46.1074226441784
+                8.86512369000801,46.1059674184527
+                8.86513450736823,46.1053914763083
+                8.86514649744283,46.1053553368646
+                8.86544577395918,46.1044338624333
+                8.8657048427538,46.1039537467563
+                8.86353495816756,46.1040711442258
+                8.8621171159958,46.1042599856139
+                8.86111396408085,46.1044795687624
+                8.85962741939218,46.105011128849
+                8.8565921607422,46.1061739370028
+                8.853341378387,46.1075103065507
+                8.85219938546653,46.1078665042097
+                8.8508589909932,46.1080542320488
+                8.84960608181567,46.1081238896982
+                8.84754392573699,46.1089143991677
+                8.84680940076625,46.1090225354721
+                8.8457234641537,46.1095489085701
+                8.8437016479848,46.1109056493758
+                8.84175268185636,46.1115776813124
+                8.84003159376,46.1120579137575
+                8.83769411651941,46.1127167054921
+                8.83603738753754,46.1131870812316
+                8.83461203184833,46.1136005885848
+                8.83588511941417,46.1143135802219
+                8.83659130734783,46.1146107280986
+                8.83713585794262,46.1146579616414
+                8.83758296482894,46.1144364934073
+                8.83775479698772,46.1140744864545
+                8.83784787981684,46.1136684712432
+                8.83834255276357,46.1132844656244
+                8.83912934246595,46.113193730442
+                8.83962469185692,46.1133405285463
+                8.84027707929869,46.1135573491766
+                8.8405142503472,46.1137253441339
+                8.84086966302395,46.1139638445724
+                8.84252575155968,46.1149778974156
+                8.84383522553703,46.1155913822132
+                8.84537427566141,46.1160760333705
+                8.84638791276893,46.1162523274755
+                8.84775949909349,46.1162621982922
+                8.84991534208151,46.1160823076678
+                8.85156725630076,46.1159266807758
+                8.85284341090788,46.1157487488302
+                8.85426415035011,46.1156589579627
+                8.85589601316625,46.1157284426542
+                8.85804589310873,46.1158183795589
+                8.85964271413868,46.1160322022739
+                8.86107493673602,46.1163830320002
+                8.86086464660448,46.1172493908835
+                8.86088246140875,46.1179329353602
+                8.86253416540058,46.1177681538418
+                8.86388792619794,46.1175891177009
+                8.86571855776986,46.1173410564607
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.85084712986099,46.1110953438866</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

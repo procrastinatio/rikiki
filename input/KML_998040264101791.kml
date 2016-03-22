@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 572</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 572</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Corocnola</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Weber, Otto</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1912</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 572</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_572_Corocnola_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_572_Corocnola_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998040264101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998040264101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.85065022859923,46.1419843284877
+                8.85093152460779,46.1413510225085
+                8.85064374343068,46.1407338322018
+                8.84998330993206,46.1402202674322
+                8.84930878740623,46.1396618902605
+                8.84915599845801,46.1392589364903
+                8.84961014757347,46.138803413126
+                8.8501835253328,46.1384543605078
+                8.8504447519903,46.1380462306554
+                8.8506157753846,46.1371533928571
+                8.84998135427481,46.1371433328639
+                8.84953634893457,46.136950962878
+                8.84881500324505,46.1365821047108
+                8.84805260596185,46.1366276143651
+                8.84709335426388,46.1365676118838
+                8.84576535219287,46.1362602841369
+                8.84544330201052,46.136318279953
+                8.84421495643631,46.1368644016456
+                8.84422190882773,46.1371342233674
+                8.84423465506286,46.1376288965402
+                8.84402119707334,46.1378834687083
+                8.84323822792951,46.1381361313507
+                8.84267033927548,46.1381971777795
+                8.8415121364244,46.1379506662377
+                8.84093824594638,46.1382816866587
+                8.84043042651086,46.1386658652576
+                8.83992213782497,46.1390320534499
+                8.83924033108703,46.1391934627925
+                8.83855113400164,46.1390670577498
+                8.83759092705915,46.1389709982071
+                8.83698513051453,46.1390684733431
+                8.8361730088009,46.1391954905023
+                8.83554040906465,46.1392573019366
+                8.83487732670638,46.1391395483195
+                8.83393586981586,46.1387643211902
+                8.83257208813267,46.1400947203161
+                8.83172518396567,46.1408879067845
+                8.83303775189869,46.1410966247646
+                8.83461117959411,46.1413830745178
+                8.83582486633538,46.1417729216654
+                8.83688606791622,46.1422726079232
+                8.83782435659742,46.1430257220814
+                8.83856996407637,46.1438351999022
+                8.8394787276126,46.1444447161068
+                8.84120109828206,46.1449811418825
+                8.84253829146042,46.1451354634981
+                8.84373914281925,46.1450215578699
+                8.84601421837558,46.1449032501525
+                8.84728904728474,46.1451482626025
+                8.8482587556406,46.1446053386096
+                8.84988347281235,46.143865283858
+                8.85009110815794,46.1433858492065
+                8.85012750405706,46.142791594797
+                8.85065022859923,46.1419843284877
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.84132576336906,46.1407690242178</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

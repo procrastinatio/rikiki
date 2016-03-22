@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 60</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 60</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Sch&ouml;nibr&uuml;cke</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1890</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 60</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_60_Schonibrucke_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_60_Schonibrucke_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997689284101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997689284101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.59172432300357,46.6744180115896
+                8.59119048050477,46.674513374536
+                8.59069581874328,46.6752201004267
+                8.59039579420298,46.6764736437808
+                8.59012726235107,46.6779787696765
+                8.58976666011035,46.6794578347076
+                8.5894412194132,46.6807476171744
+                8.58923741104043,46.6822250972603
+                8.58891347392282,46.6835868342993
+                8.58867909412886,46.6848577021192
+                8.58869035508028,46.6860001414377
+                8.58850785838034,46.6872524922763
+                8.58850527919386,46.6883590849883
+                8.5885041879626,46.6901493947428
+                8.58877166038995,46.6916581054114
+                8.58906624996673,46.6932115242409
+                8.58928859321204,46.6944417981322
+                8.58985179114321,46.6957136139949
+                8.5901089682839,46.6967366158273
+                8.590617270932,46.6966595112746
+                8.59228981426312,46.6966066202586
+                8.59436780123469,46.6965585935174
+                8.59577387074751,46.6962744426557
+                8.59588589357119,46.6954006472007
+                8.59572509372162,46.6939988271467
+                8.59462652735947,46.690933169742
+                8.5936943333819,46.6870831228642
+                8.59410315498798,46.6866381533383
+                8.59480201834644,46.6863071963217
+                8.5962910608094,46.6862471071081
+                8.59790004921993,46.686293737045
+                8.59907482287287,46.6862098163537
+                8.60036741802797,46.6861336797609
+                8.60128736645405,46.6863582129802
+                8.60143626711406,46.6859878382293
+                8.60199739958098,46.6853343668473
+                8.60200706634576,46.6845695655271
+                8.60171671293522,46.6838348142267
+                8.60076195975988,46.6819912692239
+                8.59976969609626,46.6808318327445
+                8.59889431959865,46.6796352125719
+                8.59762436362048,46.6777138810215
+                8.59732903337375,46.6761334986184
+                8.59755705303585,46.6751865483671
+                8.59761293207114,46.6747451517207
+                8.59692628756456,46.6744192592434
+                8.59594623578169,46.6744292119947
+                8.59466524915986,46.6744242151338
+                8.59335889733658,46.6744554467728
+                8.59241804636855,46.674464972132
+                8.59172432300357,46.6744180115896
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.59521695885362,46.6855382869327</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

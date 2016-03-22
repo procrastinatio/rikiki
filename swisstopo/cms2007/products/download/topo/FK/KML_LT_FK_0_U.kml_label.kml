@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1794">
+        <Style id="stylesel_27">
+            <IconStyle id="substyle_55">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_865">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_54">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1795">
+            <name>LT FK 0 UEB, 1943</name>
+            <styleUrl>#stylesel_27</styleUrl>
+            <Point id="geom_874">
+                <coordinates>8.15929110535,46.8138803285,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

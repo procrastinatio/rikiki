@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 23</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 23</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Alpe de Sorescia</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Kuhn, Charles</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1891</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 23</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_23_Alpe de Sorescia_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_23_Alpe de Sorescia_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997414254101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997414254101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.58356165726565,46.5538749752624
+                8.58378007284944,46.5537198354102
+                8.58411411779016,46.5534825618819
+                8.58442151235191,46.5532185661311
+                8.58458320022081,46.5528480788581
+                8.58465285857775,46.5524425323325
+                8.58464162282867,46.5519118490503
+                8.58458917962557,46.5512826188447
+                8.58447459660177,46.5507979594033
+                8.58411135304714,46.5502708214743
+                8.58377780650892,46.549914317922
+                8.58317933563708,46.5493625554037
+                8.58242671295086,46.5489202986479
+                8.58180656181091,46.5485756677283
+                8.58100561003185,46.5483138184146
+                8.5803352245006,46.5480596495887
+                8.57958833055472,46.547887213249
+                8.57882783620592,46.547687918759
+                8.57797874056919,46.5476154583618
+                8.5771685683207,46.5475336054992
+                8.57612562714152,46.5475440403473
+                8.57544790404828,46.5475598125186
+                8.57465341582865,46.5476037365257
+                8.57406845838311,46.547690546192
+                8.57387498119031,46.5477914392916
+                8.57385211417451,46.5479446086014
+                8.57384322706577,46.5481426210498
+                8.57384737685698,46.548340503382
+                8.57407447654261,46.5485991360959
+                8.57422222371843,46.5488045814232
+                8.57420105545518,46.5490387026515
+                8.57394427437007,46.5492301931267
+                8.57371111400506,46.5493044923588
+                8.57343865278864,46.5493701866711
+                8.57321736831208,46.5500111479388
+                8.57330520823527,46.5504690948889
+                8.57336754013909,46.550954285838
+                8.57376034292999,46.5516520962137
+                8.57420587367817,46.5523763685484
+                8.57468864284238,46.5530103020055
+                8.57518106193535,46.5534821994793
+                8.57554140612513,46.5538744461584
+                8.57624075359643,46.5542633020798
+                8.57672790201759,46.5544833427701
+                8.57736829926999,46.5545489063229
+                8.57825510324292,46.5545490222666
+                8.57908880582131,46.554504680969
+                8.57963623051334,46.5544901949605
+                8.58050923606451,46.5544544455491
+                8.58114811864347,46.5544480307167
+                8.5819273837564,46.554296256763
+                8.58283645747942,46.5541161821899
+                8.58321152587251,46.5539684642163
+                8.58356165726565,46.5538749752624
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.57893724047028,46.5510245391043</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

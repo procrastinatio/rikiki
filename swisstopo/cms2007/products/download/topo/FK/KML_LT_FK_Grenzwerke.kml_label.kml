@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1696">
+        <Style id="stylesel_19">
+            <IconStyle id="substyle_39">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_824">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_38">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1697">
+            <name>LT FK HEL 1941 : 4.1;LT FK HEL 1941 : 1.1;LT FK HEL 1941 : 3.1;LT FK HEL 1941 : 2.1</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_833">
+                <coordinates>9.68277590959,47.4429118089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1698">
+            <name>LT FK HEL 1941 : 4;LT FK HEL 1941 : 3</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_834">
+                <coordinates>9.69390420379,47.5277418319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1699">
+            <name>LT FK HEL 1941 : 4;LT FK HEL 1941 : 3</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_835">
+                <coordinates>9.6950069764,47.4692443526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1700">
+            <name>LT FK HEL 1941 : 4;LT FK HEL 1941 : 3</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_836">
+                <coordinates>9.68445259915,47.4172713429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1701">
+            <name>LT FK NAT 1943 : 3.1;LT FK NAT 1943 : 2.1;LT FK NAT 1943 : 1.1</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_837">
+                <coordinates>8.05199381244,46.3089405594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1702">
+            <name>LT FK NAT 1943 : 3;LT FK NAT 1943 : 2</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_838">
+                <coordinates>8.06110015677,46.3639457584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1703">
+            <name>LT FK NAT 1943 : 3;LT FK NAT 1943 : 2</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_839">
+                <coordinates>8.05214472296,46.3108108853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1704">
+            <name>LT FK NAT 1943 : 3;LT FK NAT 1943 : 2</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_840">
+                <coordinates>8.05909595949,46.2555743117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1705">
+            <name>LT FK REU 1940 : 1.1;LT FK REU 1940 : 2.1</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_841">
+                <coordinates>8.1384295726,47.5785867223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1706">
+            <name>LT FK REU 1940 : 1;LT FK REU 1940 : 2</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_842">
+                <coordinates>8.14631855224,47.5920838292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1707">
+            <name>LT FK REU 1940 : 1;LT FK REU 1940 : 2</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_843">
+                <coordinates>8.08037336121,47.5985741382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1708">
+            <name>LT FK REU 1940 : 1;LT FK REU 1940 : 2</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_844">
+                <coordinates>8.10164244903,47.5512451182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1709">
+            <name>LT FK RHE 1942</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_845">
+                <coordinates>9.26391212189,46.5361008005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1710">
+            <name>LT FK RHE 1943</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_846">
+                <coordinates>9.26375695325,46.5361392838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1711">
+            <name>LT FK RUE 1940 : 2.1;LT FK RUE 1940 : 1.1</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_847">
+                <coordinates>8.57914773688,47.6133175149,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1712">
+            <name>LT FK RUE 1940 : 2;LT FK RUE 1940 : 1</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_848">
+                <coordinates>8.57950748381,47.6300616833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1713">
+            <name>LT FK RUE 1940 : 2;LT FK RUE 1940 : 1</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_849">
+                <coordinates>8.57890958596,47.5873616036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1714">
+            <name>LT FK VAL 1941 : 1.1;LT FK VAL 1941 : 2.1</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_850">
+                <coordinates>6.36289966111,46.7472167364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1715">
+            <name>LT FK VAL 1941 : 2;LT FK VAL 1941 : 1</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_851">
+                <coordinates>6.30999095785,46.7438540806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1716">
+            <name>LT FK VAL 1941 : 2;LT FK VAL 1941 : 1</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_852">
+                <coordinates>6.3982319556,46.7487946643,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

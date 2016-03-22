@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1805">
+        <Document id="feat_1806">
+            <name>KML_LT_FK_ZEN</name>
+        </Document>
+        <NetworkLink id="feat_1807">
+            <name>KML_LT_FK_ZEN_label</name>
+            <Link id="link_869">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_LT_FK_ZEN.kml_label.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1808">
+            <name>KML_997269234101791</name>
+            <Link id="link_870">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997269234101791.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1809">
+            <name>KML_997269294101791</name>
+            <Link id="link_871">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997269294101791.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1810">
+            <name>KML_9925806401001791</name>
+            <Link id="link_872">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_9925806401001791.kml</href>
+            </Link>
+        </NetworkLink>
+        <NetworkLink id="feat_1811">
+            <name>KML_9925823991101791</name>
+            <Link id="link_873">
+                <href>https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_9925823991101791.kml</href>
+            </Link>
+        </NetworkLink>
+    </Document>
+</kml>

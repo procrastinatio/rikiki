@@ -1,0 +1,132 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 11</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 11</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Motto di dentro</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Hirsbrunner, J.</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1888</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 11</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_11_Motto di dentro_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_11_Motto di dentro_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997407084101791-1&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997407084101791-1.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.58091983054478,46.5423949520568
+                8.58179093079363,46.5422782410162
+                8.582704935203,46.5423410226984
+                8.58331988569341,46.5424427935904
+                8.58363349910483,46.5424756228965
+                8.58429707070126,46.5417941988591
+                8.58516728388806,46.5410207221701
+                8.58637523770875,46.540189851179
+                8.58750227372163,46.5392338325912
+                8.58873989311399,46.5379618043965
+                8.58733687012347,46.5369683702415
+                8.58634138313891,46.5361327449419
+                8.58511017585916,46.5352455086231
+                8.58474484912838,46.5352311981224
+                8.58422159481096,46.5351465050934
+                8.58378577368129,46.5348809981187
+                8.58385845880758,46.5346193660193
+                8.58396719979134,46.5342134258189
+                8.58381755314377,46.5339180466332
+                8.58295145144688,46.5336478724933
+                8.58241613185078,46.5336082755151
+                8.58174896005594,46.5334980291487
+                8.58144406690909,46.5332581868321
+                8.58112215778153,46.5328295871042
+                8.58094361794356,46.532399546339
+                8.58092109750662,46.5319499449961
+                8.58001144168459,46.5320850311811
+                8.57856761478151,46.5322344628771
+                8.57755368342514,46.5323705745946
+                8.57719499754237,46.5326710526158
+                8.57657658768317,46.5330191116109
+                8.57591094831187,46.5336015496394
+                8.57568597985515,46.5340626230527
+                8.57543852831965,46.5346948550304
+                8.575165192152,46.5353363416428
+                8.57492074890925,46.5361124869223
+                8.57513457258151,46.5369830145874
+                8.57534727009833,46.5377995739042
+                8.57562816935288,46.5387593956555
+                8.57575624934784,46.5398916791574
+                8.57589283530812,46.5408079604966
+                8.57615902359776,46.5416869593153
+                8.57633283744427,46.5425129024174
+                8.57653253905059,46.5433295897352
+                8.57660811658336,46.5438236432783
+                8.57854989230822,46.5437772085159
+                8.57939831788661,46.5432019195446
+                8.5800659341723,46.5427094077479
+                8.58091983054478,46.5423949520568
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

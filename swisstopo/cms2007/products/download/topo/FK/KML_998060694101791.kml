@@ -1,0 +1,135 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 1154</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 1154</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Ascona</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1918 ca.</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 1154</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_1154_Ascona_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_1154_Ascona_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998060694101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998060694101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.77307294137684,46.1495406257984
+                8.77249195100791,46.1501322835334
+                8.77167275702696,46.1510416389989
+                8.77072697538465,46.1520694402604
+                8.77017598859854,46.1528316710013
+                8.76933367801669,46.1533274282029
+                8.76838978926383,46.153905346471
+                8.76727565923248,46.1544042886214
+                8.76697139918663,46.1546687755212
+                8.76693739194854,46.1548671052531
+                8.76756102382051,46.1554895440789
+                8.76821121305574,46.1561386573949
+                8.76907332984119,46.1569832003483
+                8.7686532362298,46.1572760468386
+                8.76829434399332,46.1574242221738
+                8.76731945990726,46.1572647574978
+                8.76653719134505,46.1570400420152
+                8.76634720934961,46.1572132151686
+                8.76610654915953,46.157431967759
+                8.76554737629494,46.1573305779263
+                8.76515449406006,46.1571462608611
+                8.76448981493275,46.1569651339539
+                8.76395850280213,46.1569443804316
+                8.76375600718275,46.1571356895941
+                8.76374918392046,46.1573876800626
+                8.76390161110754,46.1577997441553
+                8.76425916291648,46.1581284291619
+                8.76528294850996,46.1587011988595
+                8.76664372154241,46.1592879908376
+                8.76755940268364,46.1596730786969
+                8.76785468282417,46.1601014504457
+                8.76845798146369,46.1609490450254
+                8.76892878712424,46.1616722420234
+                8.76976247952807,46.1624091542801
+                8.77064643357677,46.1630824901796
+                8.77152755116627,46.1636388942691
+                8.77237597733122,46.1639167763131
+                8.77319434030229,46.1640240676936
+                8.77350156373888,46.1622930468772
+                8.77369281304726,46.161643014971
+                8.77367365437479,46.1608605179266
+                8.77311254158504,46.1590947761755
+                8.7729510177491,46.1583139615355
+                8.77292724941302,46.1573425860121
+                8.77292206370069,46.1555432838674
+                8.7729707107729,46.1548859414572
+                8.77295772678417,46.1543552827525
+                8.77278323735009,46.1530438095344
+                8.77279653915635,46.1520000219627
+                8.77307042872231,46.1510251295803
+                8.77319605725439,46.1503398869944
+                8.77307294137684,46.1495406257984
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

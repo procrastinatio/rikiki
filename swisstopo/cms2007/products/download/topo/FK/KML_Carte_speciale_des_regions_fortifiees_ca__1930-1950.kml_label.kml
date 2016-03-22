@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1488">
+        <Style id="stylesel_17">
+            <IconStyle id="substyle_35">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_720">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_34">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1489">
+            <name>LT FK SMAU 565b,1946</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_733">
+                <coordinates>7.08613337693,46.1193449363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1490">
+            <name>LT FK SMAU 565a,1945</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_734">
+                <coordinates>7.04085840969,46.1191944639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1491">
+            <name>LT FK SMAU 564p,1939</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_735">
+                <coordinates>6.9962834166,46.0326707943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1492">
+            <name>LT FK SMAU 564o,1939</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_736">
+                <coordinates>6.9510805302,46.0324843012,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1493">
+            <name>LT FK SMAU 564n,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_737">
+                <coordinates>6.90579909343,46.0403753676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1494">
+            <name>LT FK SMAU 564m,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_738">
+                <coordinates>6.86059021686,46.0401525784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1495">
+            <name>LT FK SMAU 564k,1939</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_739">
+                <coordinates>6.99593385266,46.0758482131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1496">
+            <name>LT FK SMAU 564i,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_740">
+                <coordinates>6.9506952444,46.0756615699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1497">
+            <name>LT FK SMAU 564h,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_741">
+                <coordinates>6.90545697217,46.0754567808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1498">
+            <name>LT FK SMAU 564g,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_742">
+                <coordinates>6.86030476091,46.0671381566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1499">
+            <name>LT FK SMAU 564e,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_743">
+                <coordinates>6.99558371617,46.1190258309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1500">
+            <name>LT FK SMAU 564d,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_744">
+                <coordinates>6.95030932754,46.1188390375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1501">
+            <name>LT FK SMAU 564c,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_745">
+                <coordinates>6.90503527494,46.1186340837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1502">
+            <name>LT FK SMAU 564b,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_746">
+                <coordinates>6.85967572921,46.1265067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1503">
+            <name>LT FK SMAU 564a,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_747">
+                <coordinates>6.81439572682,46.1262653888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1504">
+            <name>LT FK SMAU 545w,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_748">
+                <coordinates>7.08585434565,46.1625229839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1505">
+            <name>LT FK SMAU 545v,1944</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_749">
+                <coordinates>7.04054353953,46.1623723904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1506">
+            <name>LT FK SMAU 545s,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_750">
+                <coordinates>7.13092180492,46.2058337036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1507">
+            <name>LT FK SMAU 545r,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_751">
+                <coordinates>7.08557485884,46.2057011788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1508">
+            <name>LT FK SMAU 545q,1943</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_752">
+                <coordinates>7.04022815533,46.2055504644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1509">
+            <name>LT FK SMAU 545n,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_753">
+                <coordinates>7.13067781847,46.2490121264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1510">
+            <name>LT FK SMAU 545m,1943</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_754">
+                <coordinates>7.08529491649,46.2488794953,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1511">
+            <name>LT FK SMAU 545l,1942</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_755">
+                <coordinates>7.03991225708,46.2487286598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1512">
+            <name>LT FK SMAU 545h,1945</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_756">
+                <coordinates>7.130433435,46.292190645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1513">
+            <name>LT FK SMAU 545g,1945</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_757">
+                <coordinates>7.08501451861,46.2920579075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1514">
+            <name>LT FK SMAU 545f,1945</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_758">
+                <coordinates>7.0395958448,46.291906951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1515">
+            <name>LT FK SMAU 544z,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_759">
+                <coordinates>6.99523300713,46.1622036219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1516">
+            <name>LT FK SMAU 544y,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_760">
+                <coordinates>6.94992277962,46.1620166783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1517">
+            <name>LT FK SMAU 544x,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_761">
+                <coordinates>6.90461288814,46.1618115596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1518">
+            <name>LT FK SMAU 544w,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_762">
+                <coordinates>6.85930336386,46.1615882659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1519">
+            <name>LT FK SMAU 544v,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_763">
+                <coordinates>6.81399423792,46.1613467971,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1520">
+            <name>LT FK SMAU 544u,1943</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_764">
+                <coordinates>6.99488172554,46.2053815602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1521">
+            <name>LT FK SMAU 544t,1945</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_765">
+                <coordinates>6.94953560064,46.2051944665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1522">
+            <name>LT FK SMAU 544s,1945</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_766">
+                <coordinates>6.90418981177,46.204989183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1523">
+            <name>LT FK SMAU 544r,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_767">
+                <coordinates>6.8588443901,46.2047657099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1524">
+            <name>LT FK SMAU 544q,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_768">
+                <coordinates>6.81349936678,46.204524047,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1525">
+            <name>LT FK SMAU 544p,1942</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_769">
+                <coordinates>6.9945298714,46.2485596201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1526">
+            <name>LT FK SMAU 544o,1945</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_770">
+                <coordinates>6.9491477906,46.2483723761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1527">
+            <name>LT FK SMAU 544n,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_771">
+                <coordinates>6.90376604584,46.2481669279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1528">
+            <name>LT FK SMAU 544m,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_772">
+                <coordinates>6.85838466827,46.2479432754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1529">
+            <name>LT FK SMAU 544l,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_773">
+                <coordinates>6.81309669006,46.2396056533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1530">
+            <name>LT FK SMAU 544k,1945</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_774">
+                <coordinates>6.99417744471,46.2917377758,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1531">
+            <name>LT FK SMAU 544i,1947</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_775">
+                <coordinates>6.9487593495,46.2915503816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1532">
+            <name>LT FK SMAU 544h,1947</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_776">
+                <coordinates>6.90334159033,46.2913447685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1533">
+            <name>LT FK SMAU 544g,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_777">
+                <coordinates>6.85792419836,46.2911209366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1534">
+            <name>LT FK SMAU 544f,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_778">
+                <coordinates>6.81241402413,46.2989746695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1535">
+            <name>LT FK SMAU 544e,1946</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_779">
+                <coordinates>6.99382444547,46.3349160013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1536">
+            <name>LT FK SMAU 544d,1947</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_780">
+                <coordinates>6.94837027734,46.334728457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1537">
+            <name>LT FK SMAU 544c,1946</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_781">
+                <coordinates>6.90291644526,46.3345226791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1538">
+            <name>LT FK SMAU 544b,1947</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_782">
+                <coordinates>6.85746298037,46.3342986678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1539">
+            <name>LT FK SMAU 544a,1946</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_783">
+                <coordinates>6.81200991383,46.334056423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1540">
+            <name>LT FK SMAU 543e,1937</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_784">
+                <coordinates>6.76645717477,46.3418916995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1541">
+            <name>LT FK SMAU 524y,1946</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_785">
+                <coordinates>6.94798057413,46.3779065765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1542">
+            <name>LT FK SMAU 524x,1946</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_786">
+                <coordinates>6.90249061062,46.3777006338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1543">
+            <name>LT FK SMAU 524w,1946</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_787">
+                <coordinates>6.85700101431,46.3774764431,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1544">
+            <name>LT FK SMAU 524v,1946</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_788">
+                <coordinates>6.81151181634,46.3772340043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1545">
+            <name>LT FK SMAU 524t,1946</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_789">
+                <coordinates>6.94759023985,46.4210847143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1546">
+            <name>LT FK SMAU 524s,1946</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_790">
+                <coordinates>6.90206408641,46.4208786069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1547">
+            <name>LT FK SMAU 523z,1946</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_791">
+                <coordinates>6.7661232817,46.3688775579,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,140 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 107</name>
+    <Style id="style">
+        <IconStyle>
+          <scale>0</scale>
+        </IconStyle>
+        <LabelStyle>
+           <color>ff663333</color>
+        </LabelStyle>
+        <LineStyle>
+           <color>ff663333</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>66cc9999</color>
+        </PolyStyle>
+      </Style><Placemark>
+      <name>LT FK OA 107</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Martigny-Ville</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>K&uuml;bler, Paul;Jacot-Guillarmod, Charles</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1904</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 107</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_107_Mardigny- Ville_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_107_Mardigny- Ville_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997707734101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997707734101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                7.08197819595623,46.1059014716685
+                7.08209152379475,46.1043905722327
+                7.08234609783994,46.1030330438291
+                7.08277222784182,46.1011453172007
+                7.08320207517711,46.0986818843418
+                7.08351949287168,46.097594419373
+                7.08387118973634,46.0971997205312
+                7.08382256505612,46.0967228022899
+                7.08367038215309,46.096263549436
+                7.08311602000794,46.0960099279834
+                7.08213579005707,46.0956290209684
+                7.08005906079244,46.0948578162682
+                7.07929702313302,46.0947294537851
+                7.07812105496194,46.0946267509644
+                7.07714017024889,46.0943537452029
+                7.07621173061646,46.0939729524873
+                7.07494755276521,46.0935281013159
+                7.07357977905909,46.093109887498
+                7.07290696232605,46.0931796730514
+                7.07202672769043,46.0933297409696
+                7.07139057812532,46.0937144817948
+                7.07075357135939,46.0942251543565
+                7.07013087849098,46.094528971856
+                7.06939028905286,46.0950572896222
+                7.0685577726979,46.0957921994364
+                7.06724185730301,46.0972541551444
+                7.06662995768766,46.0978638389111
+                7.06601964011678,46.0982396395051
+                7.06525580486397,46.0983720481707
+                7.06471388330005,46.098199337464
+                7.06435533718208,46.0976854004096
+                7.06408706434677,46.0972077442604
+                7.06357231618017,46.0968462109968
+                7.06296563957349,46.0966912677417
+                7.06195669960067,46.0967418773916
+                7.06126977415881,46.0969734671818
+                7.06104697184015,46.0974045098469
+                7.06109577132585,46.0978274656452
+                7.06123340827315,46.0984935994334
+                7.0619905549723,46.0993327188898
+                7.0628899679203,46.1001723071005
+                7.06420241090938,46.1011302020821
+                7.06515361389693,46.101969944033
+                7.06623373481231,46.1028730725829
+                7.06737849048634,46.1037853990144
+                7.06766250649546,46.1038582977785
+                7.06824152043254,46.10429198799
+                7.06912994400643,46.1048706181891
+                7.06999167135319,46.1055750923806
+                7.07121517151823,46.1063347119669
+                7.07207851889646,46.1068052901623
+                7.07378768678841,46.1065049790251
+                7.07505622842809,46.1063381570736
+                7.07734727199081,46.1060486609471
+                7.07955986805368,46.1058848069574
+                7.08100884367002,46.1058084480126
+                7.08197819595623,46.1059014716685
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

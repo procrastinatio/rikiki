@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1610">
+        <Style id="stylesel_18">
+            <IconStyle id="substyle_37">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_781">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_36">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1611">
+            <name>LT FK SAR 496m,1941</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_792">
+                <coordinates>9.60664707721,46.8765751534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1612">
+            <name>LT FK SAR 496l,1942</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_793">
+                <coordinates>9.56075098332,46.877435785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1613">
+            <name>LT FK SAR 496g,1948</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_794">
+                <coordinates>9.60838890845,46.9197360725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1614">
+            <name>LT FK SAR 496f,1948</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_795">
+                <coordinates>9.56245592253,46.9205973862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1615">
+            <name>LT FK SAR 496b,1948</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_796">
+                <coordinates>9.61013350215,46.9628966744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1616">
+            <name>LT FK SAR 496a,1948</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_797">
+                <coordinates>9.56416356567,46.9637586702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1617">
+            <name>LT FK SAR 495p,1941</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_798">
+                <coordinates>9.51485344959,46.8782779933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1618">
+            <name>LT FK SAR 495o,1942</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_799">
+                <coordinates>9.46895450717,46.8791017782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1619">
+            <name>LT FK SAR 495k,1941</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_800">
+                <coordinates>9.51652149675,46.921440262,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1620">
+            <name>LT FK SAR 495i,1940</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_801">
+                <coordinates>9.47058566229,46.9222646998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1621">
+            <name>LT FK SAR 495e,1941</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_802">
+                <coordinates>9.51819218935,46.9646022135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1622">
+            <name>LT FK SAR 495d,1940</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_803">
+                <coordinates>9.47221940434,46.9654273043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1623">
+            <name>LT FK SAR 476y,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_804">
+                <coordinates>9.56587391276,47.0069196113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1624">
+            <name>LT FK SAR 476w,1941</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_805">
+                <coordinates>9.61188085829,47.0060569334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1625">
+            <name>LT FK SAR 476v,1941</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_806">
+                <coordinates>9.56587391276,47.0069196113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1626">
+            <name>LT FK SAR 476r,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_807">
+                <coordinates>9.61363097689,47.0492168236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1627">
+            <name>LT FK SAR 476q,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_808">
+                <coordinates>9.56758696379,47.0500801837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1628">
+            <name>LT FK SAR 476m,1949</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_809">
+                <coordinates>9.61538385793,47.0923763193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1629">
+            <name>LT FK SAR 476l,1949</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_810">
+                <coordinates>9.56930271876,47.0932403615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1630">
+            <name>LT FK SAR 476g,1942</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_811">
+                <coordinates>9.61713950143,47.1355353946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1631">
+            <name>LT FK SAR 476f,1942</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_812">
+                <coordinates>9.57102117768,47.1364001189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1632">
+            <name>LT FK SAR 475z,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_813">
+                <coordinates>9.51986552738,47.0077638221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1633">
+            <name>LT FK SAR 475y,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_814">
+                <coordinates>9.47385573332,47.0085895658,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1634">
+            <name>LT FK SAR 475x,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_815">
+                <coordinates>9.42784456172,47.0093968424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1635">
+            <name>LT FK SAR 475w,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_816">
+                <coordinates>9.38183204375,47.0101856519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1636">
+            <name>LT FK SAR 475v,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_817">
+                <coordinates>9.33581821055,47.0109559943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1637">
+            <name>LT FK SAR 475u,1950</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_818">
+                <coordinates>9.65309610421,47.0484620908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1638">
+            <name>LT FK SAR 475t,1950</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_819">
+                <coordinates>9.47549464922,47.0517514586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1639">
+            <name>LT FK SAR 475s,1946</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_820">
+                <coordinates>9.42944641006,47.0525593736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1640">
+            <name>LT FK SAR 475r,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_821">
+                <coordinates>9.38339682452,47.0533488068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1641">
+            <name>LT FK SAR 475q,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_822">
+                <coordinates>9.33734592376,47.0541197583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1642">
+            <name>LT FK SAR 475p,1946</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_823">
+                <coordinates>9.52322013975,47.0940859073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1643">
+            <name>LT FK SAR 475o,1946</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_824">
+                <coordinates>9.47713615205,47.0949129569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1644">
+            <name>LT FK SAR 475n,1946</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_825">
+                <coordinates>9.43105078681,47.0957215101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1645">
+            <name>LT FK SAR 475m,1940</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_826">
+                <coordinates>9.3849640752,47.096511567,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1646">
+            <name>LT FK SAR 475l,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_827">
+                <coordinates>9.33887604836,47.0972831276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1647">
+            <name>LT FK SAR 475k,1946</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_828">
+                <coordinates>9.52490141408,47.1372463323,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1648">
+            <name>LT FK SAR 475i,1946</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_829">
+                <coordinates>9.4787802418,47.1380740348,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1649">
+            <name>LT FK SAR 475h,1946</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_830">
+                <coordinates>9.43265769198,47.1388832263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1650">
+            <name>LT FK SAR 475g,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_831">
+                <coordinates>9.38653379578,47.139673907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1651">
+            <name>LT FK SAR 475f,1947</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_832">
+                <coordinates>9.34040858437,47.1404460767,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

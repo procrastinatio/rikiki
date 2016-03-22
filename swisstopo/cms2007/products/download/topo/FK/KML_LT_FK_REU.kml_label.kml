@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1752">
+        <Style id="stylesel_22">
+            <IconStyle id="substyle_45">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_846">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_44">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1753">
+            <name>LT FK REU 1940 : 1.1;LT FK REU 1940 : 2.1</name>
+            <styleUrl>#stylesel_22</styleUrl>
+            <Point id="geom_861">
+                <coordinates>8.1384295726,47.5785867223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1754">
+            <name>LT FK REU 1940 : 1;LT FK REU 1940 : 2</name>
+            <styleUrl>#stylesel_22</styleUrl>
+            <Point id="geom_862">
+                <coordinates>8.14631855224,47.5920838292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1755">
+            <name>LT FK REU 1940 : 1;LT FK REU 1940 : 2</name>
+            <styleUrl>#stylesel_22</styleUrl>
+            <Point id="geom_863">
+                <coordinates>8.08037336121,47.5985741382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1756">
+            <name>LT FK REU 1940 : 1;LT FK REU 1940 : 2</name>
+            <styleUrl>#stylesel_22</styleUrl>
+            <Point id="geom_864">
+                <coordinates>8.10164244903,47.5512451182,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

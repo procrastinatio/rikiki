@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 99</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 99</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Perris Blancs</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>W&uuml;thrich, Ernst</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1899</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 99</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_99_Berris Blancs_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_99_Berris Blancs_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997707244101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997707244101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                7.08165127918828,46.2290955683939
+                7.08000199978628,46.2275970696404
+                7.07971856680694,46.2273352961272
+                7.07832712692265,46.2260624824724
+                7.0778382997382,46.2255031926064
+                7.07677048850051,46.2243033570343
+                7.07655888577697,46.2229893122713
+                7.07637351236235,46.2216303728793
+                7.07660949294321,46.219274264145
+                7.07689657203786,46.2170262667716
+                7.07626633361723,46.2143615324294
+                7.07578506000626,46.2126867957756
+                7.07477207831339,46.2110823125124
+                7.07340865072304,46.2095756408743
+                7.07174438551181,46.2084997685635
+                7.07089368954986,46.2097563974222
+                7.07022527137902,46.2108786792485
+                7.06917236322057,46.2113700049868
+                7.06749875365045,46.2116703762253
+                7.06560108827011,46.2125187194341
+                7.06414535911871,46.2131615952724
+                7.06279431552928,46.213651874155
+                7.06236353009121,46.2141092205337
+                7.06143832845878,46.2148527784783
+                7.0605385817857,46.2156593837945
+                7.05972945734958,46.2164752814644
+                7.05862087213005,46.217488072271
+                7.05816858251741,46.2191597468069
+                7.05839143098833,46.220653778498
+                7.05827858437622,46.2219667677048
+                7.05768909101474,46.2228643511151
+                7.05708869664196,46.223465037411
+                7.05644827141545,46.2242275075224
+                7.05632611112545,46.2287069432538
+                7.05629109623511,46.2300022030288
+                7.05947962195494,46.2300309285221
+                7.06065903944759,46.2300528675984
+                7.06358950682114,46.2299096966124
+                7.06641620178688,46.229775103949
+                7.06793366800155,46.2296451527276
+                7.06921689796959,46.2296493514413
+                7.07122575312,46.2296918778484
+                7.07621723540615,46.2295370650294
+                7.0799774306557,46.2293601427327
+                7.08165127918828,46.2290955683939
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>7.06904092909584,46.219285762372</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

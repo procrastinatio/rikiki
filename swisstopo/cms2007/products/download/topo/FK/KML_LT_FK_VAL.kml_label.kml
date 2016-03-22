@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1779">
+        <Style id="stylesel_25">
+            <IconStyle id="substyle_51">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_858">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_50">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1780">
+            <name>LT FK VAL 1941 : 1.1;LT FK VAL 1941 : 2.1</name>
+            <styleUrl>#stylesel_25</styleUrl>
+            <Point id="geom_870">
+                <coordinates>6.36289966111,46.7472167364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1781">
+            <name>LT FK VAL 1941 : 2;LT FK VAL 1941 : 1</name>
+            <styleUrl>#stylesel_25</styleUrl>
+            <Point id="geom_871">
+                <coordinates>6.30999095785,46.7438540806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1782">
+            <name>LT FK VAL 1941 : 2;LT FK VAL 1941 : 1</name>
+            <styleUrl>#stylesel_25</styleUrl>
+            <Point id="geom_872">
+                <coordinates>6.3982319556,46.7487946643,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

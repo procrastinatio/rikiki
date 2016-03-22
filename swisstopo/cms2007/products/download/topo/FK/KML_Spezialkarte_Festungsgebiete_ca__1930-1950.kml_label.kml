@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1052">
+        <Style id="stylesel_9">
+            <IconStyle id="substyle_19">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_502">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_18">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1053">
+            <name>LT FK GOT 532p,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_531">
+                <coordinates>8.81518941139,46.4569832628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1054">
+            <name>LT FK GOT 532o,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_532">
+                <coordinates>8.76963877974,46.4575263593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1055">
+            <name>LT FK GOT 532n,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_533">
+                <coordinates>8.72408723789,46.4580511785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1056">
+            <name>LT FK GOT 532m,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_534">
+                <coordinates>8.678534817,46.4585577204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1057">
+            <name>LT FK GOT 532k,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_535">
+                <coordinates>8.81628639997,46.5001555441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1058">
+            <name>LT FK GOT 532i,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_536">
+                <coordinates>8.77069946136,46.5006990745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1059">
+            <name>LT FK GOT 532h,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_537">
+                <coordinates>8.72511161256,46.501224313,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1060">
+            <name>LT FK GOT 532g,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_538">
+                <coordinates>8.67952288472,46.5017312596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1061">
+            <name>LT FK GOT 532f,1944</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_539">
+                <coordinates>8.633933309,46.5022199143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1062">
+            <name>LT FK GOT 532e,1950</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_540">
+                <coordinates>8.81738515634,46.5433277664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1063">
+            <name>LT FK GOT 532d,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_541">
+                <coordinates>8.77176185228,46.5438717306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1064">
+            <name>LT FK GOT 532c,1944</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_542">
+                <coordinates>8.72613763802,46.5443973884,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1065">
+            <name>LT FK GOT 532b,1944</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_543">
+                <coordinates>8.68051254472,46.5449047397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1066">
+            <name>LT FK GOT 532a,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_544">
+                <coordinates>8.63488660354,46.5453937845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1067">
+            <name>LT FK GOT 531o,1937</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_545">
+                <coordinates>8.54187259166,46.4599676825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1068">
+            <name>LT FK GOT 531n,1937</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_546">
+                <coordinates>8.49631696617,46.4604011153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1069">
+            <name>LT FK GOT 531m,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_547">
+                <coordinates>8.45076061742,46.4608162708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1070">
+            <name>LT FK GOT 531l,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_548">
+                <coordinates>8.40520357656,46.461213149,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1071">
+            <name>LT FK GOT 531k,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_549">
+                <coordinates>8.58834291655,46.5026902772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1072">
+            <name>LT FK GOT 531i,1937</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_550">
+                <coordinates>8.54275173853,46.5031423481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1073">
+            <name>LT FK GOT 531h,1937</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_551">
+                <coordinates>8.49715980609,46.5035761272,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1074">
+            <name>LT FK GOT 531g,1937</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_552">
+                <coordinates>8.45156715039,46.5039916143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1075">
+            <name>LT FK GOT 531f,1942</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_553">
+                <coordinates>8.40597380258,46.5043888096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1076">
+            <name>LT FK GOT 531e,1947</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_554">
+                <coordinates>8.58925984563,46.5458645228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1077">
+            <name>LT FK GOT 531d,1947</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_555">
+                <coordinates>8.54363230214,46.5463169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1078">
+            <name>LT FK GOT 531c,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_556">
+                <coordinates>8.49800400425,46.54675108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1079">
+            <name>LT FK GOT 531b,1944</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_557">
+                <coordinates>8.45237498309,46.5471668988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1080">
+            <name>LT FK GOT 531a,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_558">
+                <coordinates>8.40674526982,46.5475644112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1081">
+            <name>LT FK GOT 530p,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_559">
+                <coordinates>8.35964587476,46.4615917499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1082">
+            <name>LT FK GOT 530k,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_560">
+                <coordinates>8.36037979383,46.504767713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1083">
+            <name>LT FK GOT 530i,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_561">
+                <coordinates>8.31478515528,46.5051283245,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1084">
+            <name>LT FK GOT 530e,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_562">
+                <coordinates>8.36111489561,46.547943617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1085">
+            <name>LT FK GOT 530d,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_563">
+                <coordinates>8.31548389161,46.5483045164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1086">
+            <name>LT FK GOT 512z,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_564">
+                <coordinates>8.81848568052,46.5864999037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1087">
+            <name>LT FK GOT 512y,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_565">
+                <coordinates>8.77282595249,46.5870443019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1088">
+            <name>LT FK GOT 512x,1945</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_566">
+                <coordinates>8.72716531426,46.5875703789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1089">
+            <name>LT FK GOT 512w,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_567">
+                <coordinates>8.68150379699,46.5880781349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1090">
+            <name>LT FK GOT 512v,1942</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_568">
+                <coordinates>8.63584143184,46.5885675698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1091">
+            <name>LT FK GOT 512s,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_569">
+                <coordinates>8.72819464128,46.6307432587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1092">
+            <name>LT FK GOT 512r,1942</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_570">
+                <coordinates>8.68249664154,46.6312514194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1093">
+            <name>LT FK GOT 512q,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_571">
+                <coordinates>8.63679779391,46.6317412444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1094">
+            <name>LT FK GOT 512o,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_572">
+                <coordinates>8.77495928078,46.6733890864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1095">
+            <name>LT FK GOT 512n,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_573">
+                <coordinates>8.72922561909,46.6739160021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1096">
+            <name>LT FK GOT 512m,1942</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_574">
+                <coordinates>8.68349107836,46.6744245674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1097">
+            <name>LT FK GOT 512l,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_575">
+                <coordinates>8.63775568975,46.6749147824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1098">
+            <name>LT FK GOT 512i,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_576">
+                <coordinates>8.77602850887,46.7165612482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1099">
+            <name>LT FK GOT 512h,1944</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_577">
+                <coordinates>8.73025824768,46.7170885831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1100">
+            <name>LT FK GOT 512g,1944</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_578">
+                <coordinates>8.68448710746,46.7175975531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1101">
+            <name>LT FK GOT 512f,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_579">
+                <coordinates>8.63871511935,46.7180881582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1102">
+            <name>LT FK GOT 512d,1952</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_580">
+                <coordinates>8.77689851529,46.7516384922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1103">
+            <name>LT FK GOT 511z,1942</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_581">
+                <coordinates>8.59017824996,46.5890386836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1104">
+            <name>LT FK GOT 511y,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_582">
+                <coordinates>8.54451428251,46.5894914763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1105">
+            <name>LT FK GOT 511x,1942</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_583">
+                <coordinates>8.49884956065,46.5899259479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1106">
+            <name>LT FK GOT 511w,1948</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_584">
+                <coordinates>8.45318411552,46.5903420984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1107">
+            <name>LT FK GOT 511v,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_585">
+                <coordinates>8.40751797829,46.5907399278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1108">
+            <name>LT FK GOT 511u,1944</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_586">
+                <coordinates>8.59109812956,46.6322127336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1109">
+            <name>LT FK GOT 511t,1950</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_587">
+                <coordinates>8.54539767963,46.6326658872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1110">
+            <name>LT FK GOT 511s,1949</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_588">
+                <coordinates>8.49953757533,46.6250054477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1111">
+            <name>LT FK GOT 511r,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_589">
+                <coordinates>8.45384249265,46.6254218677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1112">
+            <name>LT FK GOT 511q,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_590">
+                <coordinates>8.40829192797,46.6339153338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1113">
+            <name>LT FK GOT 511p,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_591">
+                <coordinates>8.59201948441,46.6753866472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1114">
+            <name>LT FK GOT 511o,1950</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_592">
+                <coordinates>8.5462824935,46.6758401617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1115">
+            <name>LT FK GOT 511n,1949</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_593">
+                <coordinates>8.50054474817,46.6762753258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1116">
+            <name>LT FK GOT 511k,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_594">
+                <coordinates>8.59294231452,46.7185603985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1117">
+            <name>LT FK GOT 511i,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_595">
+                <coordinates>8.54716872411,46.7190142738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1118">
+            <name>LT FK GOT 511h,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_596">
+                <coordinates>8.50139437929,46.7194497842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1119">
+            <name>LT FK GOT 511g,1947</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_597">
+                <coordinates>8.4556193112,46.7198669298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1120">
+            <name>LT FK GOT 511c,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_598">
+                <coordinates>8.50208570468,46.7545288944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1121">
+            <name>LT FK GOT 511b,1947</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_599">
+                <coordinates>8.45628085643,46.7549463094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1122">
+            <name>LT FK GOT 510z,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_600">
+                <coordinates>8.36185118011,46.5911194361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1123">
+            <name>LT FK GOT 510y,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_601">
+                <coordinates>8.31618375213,46.5914806234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1124">
+            <name>LT FK GOT 510u,1943</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_602">
+                <coordinates>8.36258864732,46.6342951446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1125">
+            <name>LT FK GOT 510t,1944</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_603">
+                <coordinates>8.3167532166,46.62656113,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

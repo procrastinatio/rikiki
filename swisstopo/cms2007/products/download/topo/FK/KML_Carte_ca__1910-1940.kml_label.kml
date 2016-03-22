@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1202">
+        <Style id="stylesel_10">
+            <IconStyle id="substyle_21">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_577">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_20">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1203">
+            <name>LT FK CEN 9,1935</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_604">
+                <coordinates>8.81392835911,46.176292993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1204">
+            <name>LT FK CEN 8,1935</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_605">
+                <coordinates>8.76731766094,46.176850843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1205">
+            <name>LT FK CEN 4,1935</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_606">
+                <coordinates>8.90831074432,46.2182906215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1206">
+            <name>LT FK CEN 32,1930</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_607">
+                <coordinates>8.99665911908,46.0443600416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1207">
+            <name>LT FK CEN 31,1935</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_608">
+                <coordinates>8.9501631232,46.044993307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1208">
+            <name>LT FK CEN 30,1936</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_609">
+                <coordinates>8.90366602547,46.0456073827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1209">
+            <name>LT FK CEN 3,1935</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_610">
+                <coordinates>8.86166512724,46.2188874228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1210">
+            <name>LT FK CEN 29,1936</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_611">
+                <coordinates>8.85716785978,46.0462022684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1211">
+            <name>LT FK CEN 27,1936</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_612">
+                <coordinates>8.99789100042,46.0875295938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1212">
+            <name>LT FK CEN 26,1936</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_613">
+                <coordinates>8.95135823197,46.0881633691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1213">
+            <name>LT FK CEN 25,1936</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_614">
+                <coordinates>8.90482436166,46.0887779391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1214">
+            <name>LT FK CEN 24,1935</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_615">
+                <coordinates>8.85828942339,46.0893733037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1215">
+            <name>LT FK CEN 23,1935</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_616">
+                <coordinates>8.81175345107,46.0899494631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1216">
+            <name>LT FK CEN 20,1938</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_617">
+                <coordinates>8.9991248978,46.1306993322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1217">
+            <name>LT FK CEN 2,1935</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_618">
+                <coordinates>8.81501847611,46.2194649725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1218">
+            <name>LT FK CEN 19,1938</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_619">
+                <coordinates>8.95255529659,46.1313336172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1219">
+            <name>LT FK CEN 18,1941</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_620">
+                <coordinates>8.90598459353,46.1319486816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1220">
+            <name>LT FK CEN 17,1938</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_621">
+                <coordinates>8.8594128225,46.1325445251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1221">
+            <name>LT FK CEN 16,1938</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_622">
+                <coordinates>8.81284001743,46.1331211479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1222">
+            <name>LT FK CEN 15,1930</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_623">
+                <coordinates>8.76652891359,46.1444716092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1223">
+            <name>LT FK CEN 13,1938</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_624">
+                <coordinates>8.99647697963,46.173922865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1224">
+            <name>LT FK CEN 12,1938</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_625">
+                <coordinates>8.95375431709,46.1745040256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1225">
+            <name>LT FK CEN 11,1941</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_626">
+                <coordinates>8.90714672108,46.1751195843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1226">
+            <name>LT FK CEN 10,1938</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_627">
+                <coordinates>8.86053805712,46.1757159067,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

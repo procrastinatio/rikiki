@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 977</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 977</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Gryon</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>R&uuml;esch, Robert</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1917</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 977</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_977_Gryon_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_977_Gryon_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998054664101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998054664101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                7.06441835254787,46.2809629795666
+                7.06398051406244,46.2804847592547
+                7.06298474310842,46.2800136828746
+                7.06140523089521,46.2795316582519
+                7.05992790860458,46.2792838416757
+                7.05859343581719,46.279018494042
+                7.05729657322768,46.2789421671097
+                7.05608932832832,46.2790370465711
+                7.05543880797572,46.2792957217896
+                7.05430609120908,46.2798586112047
+                7.05315948498678,46.2805473819699
+                7.05209139772743,46.2811374565946
+                7.05075300675429,46.2814207413358
+                7.04968892664666,46.281444077547
+                7.0476264105375,46.2813829982081
+                7.04659645715684,46.2820721057893
+                7.04576077124203,46.2828068570115
+                7.04483300277456,46.2837122004211
+                7.04430918816522,46.2843760598459
+                7.04375732175234,46.2853276818944
+                7.04350530697295,46.2860824425529
+                7.04381306013565,46.2865872761823
+                7.04481204051821,46.286608746976
+                7.04601992734941,46.2864510193487
+                7.04742386087179,46.2860960508059
+                7.04848887135231,46.2859557945312
+                7.04990318079838,46.2859606595044
+                7.05116088992285,46.2860909108888
+                7.05261483113001,46.2859969248111
+                7.05301942492078,46.285665462394
+                7.05354397325032,46.2848846212502
+                7.05471680620713,46.2841689479984
+                7.05626366309709,46.2837693763201
+                7.05797847630333,46.2834693012012
+                7.05960182144052,46.2832588510055
+                7.0615862623202,46.2833644303907
+                7.06302515117541,46.2835581232562
+                7.06385454433279,46.2837048032137
+                7.06386179259611,46.2826523301533
+                7.06409991568896,46.2819874363387
+                7.06441835254787,46.2809629795666
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>7.05396108007537,46.2827810438226</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

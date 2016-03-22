@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 454</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 454</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Javernaz</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Vittoz, John</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1899</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 454</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_454_Javernaz_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_454_Javernaz_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997715414101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997715414101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                7.05734319873762,46.2482130230888
+                7.05869257572323,46.2480916230156
+                7.06024821947125,46.2481418150014
+                7.06153119945915,46.2482450512143
+                7.06308666410929,46.2483221906128
+                7.06517474181263,46.2482571370081
+                7.06665407287621,46.2480910925028
+                7.06838067147038,46.2477909029068
+                7.07079439717505,46.2475019188627
+                7.07299900887101,46.2474550911767
+                7.07552723076696,46.2474902207488
+                7.07762757194531,46.2475239292917
+                7.07949179530734,46.2479706507385
+                7.08042424391114,46.2481445247484
+                7.0802377413915,46.2469295176048
+                7.08010044514801,46.2461194716248
+                7.08044412475708,46.245122040154
+                7.08114905081916,46.2443956201111
+                7.08134973595346,46.2296163649528
+                7.08165127918828,46.2290955683939
+                7.0799774306557,46.2293601427327
+                7.07621723540615,46.2295370650294
+                7.07122575312,46.2296918778484
+                7.06921689796959,46.2296493514413
+                7.06793366800155,46.2296451527276
+                7.06641620178688,46.229775103949
+                7.06358950682114,46.2299096966124
+                7.06065903944759,46.2300528675984
+                7.05947962195494,46.2300309285221
+                7.05629109623511,46.2300022030288
+                7.05625797399244,46.231027598819
+                7.05639393085431,46.231972605056
+                7.05642189883504,46.2335289527714
+                7.05651695622802,46.2347616826439
+                7.0566762042027,46.2360845861332
+                7.05690229612721,46.2371198531419
+                7.05710353999035,46.2380021092679
+                7.0574036549884,46.2395773661345
+                7.05753877180575,46.2406483080905
+                7.05700502005303,46.2409613577169
+                7.05587267438958,46.2415872301122
+                7.05625669065892,46.2422901924647
+                7.05639475903603,46.242938348618
+                7.05641450219346,46.2438199928011
+                7.05609600583098,46.2448624162086
+                7.05593466698809,46.2456804783048
+                7.05583625591902,46.2467686238738
+                7.05576415286991,46.2478028843199
+                7.05491564323514,46.2486096219011
+                7.05594100205628,46.2484691638032
+                7.05734319873762,46.2482130230888
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>7.06828582546036,46.2388578802242</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

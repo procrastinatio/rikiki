@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 1147</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 1147</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>Bidogno</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Wildberger, Hp.;Witzig, Heinrich</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1918</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:10 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 1147</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_1147_Bidogno_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_1147_Bidogno_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=998060174101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_998060174101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.98913214174918,46.0709695478703
+                8.9886385638288,46.070886362999
+                8.9877062481156,46.0712860562411
+                8.9866642496203,46.0719211745661
+                8.9862272722223,46.0724670049627
+                8.98627554427342,46.0732580948575
+                8.98651816446324,46.0740645111766
+                8.9864832983021,46.0746588043685
+                8.9860384712247,46.0753846854349
+                8.98550131896709,46.0755899943629
+                8.98505946170117,46.0759649402719
+                8.98456921613247,46.0764575112848
+                8.9837049535634,46.0769821974958
+                8.98323417355399,46.077249566091
+                8.98320232224785,46.0779517828976
+                8.9833947502065,46.0788128766909
+                8.98353670831252,46.0792607911627
+                8.98419491593335,46.0801334956358
+                8.98493119867062,46.081023120394
+                8.9850451000832,46.0818493002012
+                8.98499932622502,46.0825157203019
+                8.98664073323032,46.0824931991504
+                8.98785052856727,46.0822966406596
+                8.98969003195736,46.0819654482803
+                8.99048852820201,46.0818554927738
+                8.99116212569082,46.0819002038033
+                8.99368045237561,46.0822523830203
+                8.99747722100031,46.0816421320969
+                8.99824026356697,46.0816495754277
+                8.99912656399383,46.0818982329953
+                9.00082421582428,46.0824865382323
+                9.00152213372353,46.0824768672585
+                9.00265741996538,46.0823891486067
+                9.00461438907067,46.0830007922289
+                9.00488588015059,46.0816474357602
+                9.00510254262078,46.0806367353973
+                9.00552442809992,46.079569199555
+                9.00638053011,46.0783156807061
+                9.00710321430848,46.0778197791247
+                9.00723064487395,46.0773051637442
+                9.00632940727394,46.0765349384892
+                9.00490535023797,46.0755650341565
+                9.00344644176839,46.0747305547646
+                9.00194567159026,46.0742385321567
+                8.99965769387282,46.0737933809657
+                8.99708238397626,46.0732441894324
+                8.99469890745306,46.0726203146498
+                8.99124207823353,46.0715253282078
+                8.98913214174918,46.0709695478703
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.99519771370672,46.0769680785803</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

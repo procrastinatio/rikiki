@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>LT FK OA 54</name>
+    <Style id="style">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>660000ff</color>
+      </PolyStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>LT FK OA 54</name>
+      <description>
+        <![CDATA[
+          <span>Informationen</span>
+            <br>
+            <table>
+              <tbody>
+                <tr>
+                  <td class="cell-Left">Titel</td>
+                   <td>St. Anna</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Topograf(en)</td>
+                        <td>Baumann, Hans</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Erscheinungsdatum</td>
+                        <td>1890</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Massstab</td>
+                        <td>1:5 000</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Signatur</td>
+                        <td>LT FK OA 54</td>
+                    </tr>
+                    <tr>
+                        <td class="cell-Left">Quickview</td>
+                        <td><a href="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/screen/LT_FK_OA_54_St_Anna_screen.jpg" target="_blank"><img src="https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/quickview/LT_FK_OA_54_St_Anna_quickview.jpg" alt="quickview"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="http://www.alexandria.ch/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=ALEX&frbg=&vl(freeText0)=997687224101791&scp.scps=scope%3A(BIG_ALMA)&vl(6817939UI1)=all_items&vl(6804762UI0)=any&vl(6804762UI0)=title&vl(6804762UI0)=any" target="new">
+                            Zusatzinformation
+                          </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cell-left"></td>
+                        <td>
+                          <a href="https://map.geo.admin.ch/?topic=ech&layers=KML||https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_997687224101791.kml" target="new">
+                            Link zum Objekt
+                          </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]>
+      </description>
+      <styleUrl>#style</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                8.57068411241377,46.6153150897145
+                8.56830654499781,46.6139982210925
+                8.56765024270382,46.6144545541051
+                8.56606855305195,46.6156127778062
+                8.56500143947597,46.6164060312658
+                8.56402342294306,46.6170904361868
+                8.56250460386271,46.6181400296214
+                8.56071943102227,46.6195700786643
+                8.5586464049715,46.6209759402097
+                8.55914265931368,46.6216098088788
+                8.56018033145338,46.622535229238
+                8.56149481232174,46.623583862645
+                8.56354606185011,46.6248951018385
+                8.56512384156283,46.6260400551498
+                8.56631724674284,46.6269099020739
+                8.567711605475,46.6280206502505
+                8.56936301126602,46.6289309079449
+                8.57017432853632,46.6296335743012
+                8.57158038537538,46.6306721882821
+                8.57354962574485,46.6324069024249
+                8.57631607804334,46.6341606146763
+                8.57831649617655,46.633025054592
+                8.5796654938121,46.6319679570129
+                8.58106799698778,46.6309732818115
+                8.58191281802338,46.6301641172551
+                8.58285053248355,46.6294259851692
+                8.58366146894511,46.6288690496915
+                8.58413750151676,46.6285313928213
+                8.58500796905361,46.6277039533927
+                8.58506951731798,46.6269116407685
+                8.58514030384679,46.6259393047751
+                8.58528647745603,46.6254430250794
+                8.58587187673842,46.6253381688812
+                8.58675831409052,46.625266261768
+                8.58589615270223,46.6246361960954
+                8.58447844804133,46.6236698465395
+                8.58225550251984,46.6222887316372
+                8.5787502635985,46.6201557143566
+                8.57612180102563,46.6187245620001
+                8.57441611082247,46.6177069870154
+                8.57290439955175,46.6165974902829
+                8.57068411241377,46.6153150897145
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point>
+          <coordinates>8.57272180434094,46.6240753978947</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

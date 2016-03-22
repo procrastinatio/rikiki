@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1800">
+        <Style id="stylesel_28">
+            <IconStyle id="substyle_57">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+                <heading>0</heading>
+                <Icon id="link_868">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_56">
+                <color>ff663333</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_1801">
+            <name>LT FK ZEN 1945</name>
+            <styleUrl>#stylesel_28</styleUrl>
+            <Point id="geom_875">
+                <coordinates>9.01663017999,47.0599880714,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1802">
+            <name>LT FK ZEN 1945</name>
+            <styleUrl>#stylesel_28</styleUrl>
+            <Point id="geom_876">
+                <coordinates>8.39215245006,47.0145833378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1803">
+            <name>LT FK ZEN 1945a</name>
+            <styleUrl>#stylesel_28</styleUrl>
+            <Point id="geom_877">
+                <coordinates>8.39215245006,47.0145833378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1804">
+            <name>LT FK ZEN A 2,1945</name>
+            <styleUrl>#stylesel_28</styleUrl>
+            <Point id="geom_878">
+                <coordinates>9.01663017999,47.0599880714,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

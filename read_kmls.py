@@ -28,7 +28,6 @@ BASE_URL = 'https://www.procrastinatio.org/riki/'
 PATH = ''
 
 if FINAL:
-
     OUTPUT_DIR = 'swisstopo/cms2007/products/download/topo/FK/'
     BASE_URL = 'https://dav0.bgdi.admin.ch/'
     PATH = OUTPUT_DIR
@@ -36,7 +35,6 @@ if FINAL:
 NETWORK_LINK = 'KML_LT_FK_OA.kml'
 
 
-INDEXES = ['KML_LT_FK_OA.kml', 'KML_Grundlagen_Serie_1_ca__1890-1910.kml', 'KML_Grundlagen_Serie_2_ca__1910-1930.kml', 'KML_Airolo_1889-1892.kml', 'KML_Andermatt_1890-1892.kml', 'KML_Spezialkarte_Serie_1_ca__1890-1910.kml', 'KML_Spezialkarte_Serie_2_ca__1910-1930.kml', 'KML_Spezialkarte_Festungsgebiete_ca__1930-1950.kml', 'KML_997399804101791.kml', 'KML_997302454101791.kml', 'KML_Carte_ca__1910-1940.kml', 'KML_Base_ca__1910-1940.kml', 'KML_LT_FK_TIC_1946_1949.kml', 'KML_Bases_serie_1_ca__1890-1904.kml', 'KML_Carte_speciale_serie_1_ca__1890-1904.kml', 'KML_Bases_serie_2_1894-1932.kml', 'KML_Carte_speciale_serie_2_1904-1936.kml', 'KML_Carte_speciale_des_regions_fortifiees_ca__1930-1950.kml', 'KML_LT_FK_SAR_1940_1950.kml', 'KML_LT_FK_Grenzwerke.kml', 'KML_LT_FK_HEL.kml', 'KML_LT_FK_NAT.kml', 'KML_LT_FK_REU.kml', 'KML_LT_FK_RHE.kml', 'KML_LT_FK_RUE.kml', 'KML_LT_FK_VAL.kml', 'KML_LT_FK_0_B.kml', 'KML_LT_FK_0_U.kml', 'KML_LT_FK_ZEN.kml']
 
 INDEXES = ['KML_LT_FK_S20_FOR.kml', 'KML_LT_FK_GOT_FORM.kml', 'KML_LT_FK_OA.kml', 'KML_Grundlagen_Serie_1_ca__1890-1910.kml', 'KML_Grundlagen_Serie_2_ca__1910-1930.kml', 'KML_Airolo_1889-1892.kml', 'KML_Andermatt_1890-1892.kml', 'KML_Spezialkarte_Serie_1_ca__1890-1910.kml', 'KML_Spezialkarte_Serie_2_ca__1910-1930.kml', 'KML_Spezialkarte_Festungsgebiete_ca__1930-1950.kml', 'KML_Carte_ca__1910-1940.kml', 'KML_Base_ca__1910-1940.kml', 'KML_LT_FK_TIC_1946_1949.kml', 'KML_Bases_serie_1_ca__1890-1904.kml', 'KML_Carte_speciale_serie_1_ca__1890-1904.kml', 'KML_Bases_serie_2_1894-1932.kml', 'KML_Carte_speciale_serie_2_1904-1936.kml', 'KML_Carte_speciale_des_regions_fortifiees_ca__1930-1950.kml', 'KML_LT_FK_SAR_1940_1950.kml', 'KML_LT_FK_Grenzwerke.kml', 'KML_LT_FK_HEL.kml', 'KML_LT_FK_NAT.kml', 'KML_LT_FK_REU.kml', 'KML_LT_FK_RHE.kml', 'KML_LT_FK_RUE.kml', 'KML_LT_FK_VAL.kml', 'KML_LT_FK_0_B.kml', 'KML_LT_FK_0_U.kml', 'KML_LT_FK_ZEN.kml']
 
@@ -52,11 +50,7 @@ def get_index_kml(url):
     return r.text
 
 
-#----------------------------------------------------------------------
 def getLinks(content):
-    """
-    Edit an example XML file
-    """
     links = []
     root = etree.fromstring(content)
     layers = root.findall('.//{http://www.opengis.net/kml/2.2}NetworkLink')
@@ -73,9 +67,7 @@ def fix_kml(content):
 
     parser = etree.XMLParser(strip_cdata=False)
     root = etree.fromstring(content, parser)
-    #root = etree.fromstring(content)
 
-    #name = root.find('.//{http://www.opengis.net/kml/2.2}Document/{http://www.opengis.net/kml/2.2}name').text
 
     doc = root.find('{http://www.opengis.net/kml/2.2}Document')
 
@@ -85,21 +77,7 @@ def fix_kml(content):
 
     # print doc, style
 
-    style1 = '''<Style id="style">
-        <IconStyle>
-          <scale>0</scale>
-        </IconStyle>
-        <LabelStyle>
-          <color>ff0000ff</color>
-        </LabelStyle>
-        <LineStyle>
-          <color>ff0000ff</color>
-          <width>3</width>
-        </LineStyle>
-        <PolyStyle>
-          <color>660000ff</color>
-        </PolyStyle>
-      </Style>'''
+    # nicer style
 
     style1 = '''<Style id="style">
         <IconStyle>
@@ -142,13 +120,10 @@ def fix_kml(content):
 
                 xy = [float(i.strip())  for i in coord.split(',')]
 
-                # print xy
-
                 point = {'label': name, 'coordinates': xy}
 
                 points.append(point)
 
-    # print etree.tostring(root)
     tree = etree.ElementTree(root)
 
     return (etree.tounicode(tree), points)
@@ -228,7 +203,6 @@ def handle_kmls(index_name, kmls):
 
     print "Label file for '{}' is '{}'".format(index_name, label_fname)
 
-    #links = [os.path.join(OUTPUT_DIR, 'label.kml')]
 
     links = [label_fname]
 
@@ -268,9 +242,7 @@ def handle_kmls(index_name, kmls):
     network_link(network_fname, links)
 
 
-#----------------------------------------------------------------------
 if __name__ == "__main__":
-    url = 'https://dav0.bgdi.admin.ch/swisstopo/cms2007/products/download/topo/FK/KML_LT_FK_OA.kml'
 
     for index in INDEXES:  #[0:2]:
         print "\n\n===================="
@@ -301,10 +273,5 @@ if __name__ == "__main__":
 
             handle_kmls(index, kmls)
 
-    '''#content = get_index_kml(url)
-    with open('KML_LT_FK_OA.kml','r') as f:
-        content = f.read()
-    kmls =  getLinks(content)
-    '''
 
     '''xmllint  --schema /home/marco/env/lib/python2.7/site-packages/pykml/schemas/kml22gx.xsd     public_html/KML_997686934101791.kml'''
